@@ -1,0 +1,6 @@
+*.th
+*.hdf5
+*.json
+./venv
+# Project exclude paths
+/venv/
