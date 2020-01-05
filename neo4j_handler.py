@@ -15,7 +15,7 @@ class Neo4JHandler:
         self.graph.run("MATCH (n) OPTIONAL MATCH (n)-[r]-() DELETE n,r")
 
     def run(self, query):
-        query = query.replace(r"'", r"\'")
+        #query = query.replace(r"'", r"\'")
         try:
             print (query)
             return self.graph.run(query)
@@ -41,7 +41,7 @@ class Neo4JHandler:
             for id, kind, tokens in it
             ]
         nodes_declared.update({start for kind, (start, end), tokens in node_chain})
-        edges = ('-[:%s]->' % D_KIND).join(nodes)
+        edges = (f"-[:{D_KIND}{{Kind:'{D_KIND}'}}]->").join(nodes)
         return "MERGE {edges}".format(edges=edges).strip()
 
     def node_chains_to_query(self, node_chains, nodes_declared=set(), D_KIND='D'):
@@ -49,22 +49,31 @@ class Neo4JHandler:
 
     def nodify_id(self, n):
         return "".join(['(n', str(n),')'])
+    def attribute_to_property(self, n, KIND, val=None):
+        if not val:
+            p_key = KIND.title()
+            p_value = n[KIND].lower()
+        else:
+            p_key = val
+            p_value = KIND
+
+        return  "".join(['%s' % p_key, ':', '"', p_value, '"'])
     def nodify(self, n, kind=None, tokens=None, yet_declared=set()):
         infos = []
         if n['id'] not in yet_declared:
             if kind:
                 infos.extend([':', n['kind']])
             if tokens:
-                infos.extend([' {', 'Text', ':', '"', n['lemma_text'].lower(), '"', '}'])
+                infos.extend([' {', self.attribute_to_property(n, 'kind'), ', ', self.attribute_to_property(n, 'lemma_text'), ', ', self.attribute_to_property(n, 'text'),  '}'])
         yet_declared.add(n['id'])
         return "".join(['(n', str(n['id']), *infos, ')'])
 
     def edgify(self, nodes, KIND, info={}):
         if info:
-            attrs = ' {%s}' % json.dumps(info)
+            attrs = f" {{Kind:'{KIND}', %s}}" % (json.dumps(info))
         else:
-            attrs = ""
-        r = "-[:%s%s]->" % (KIND, attrs)
+            attrs = f"{{Kind:'{KIND}'}}"
+        r = f"-[:%s%s]->" % (KIND, attrs)
         return r.join(nodes)
 
     def mergify(self, edges):
@@ -74,7 +83,7 @@ class Neo4JHandler:
         return "\n".join(merges) + "\n"
 
     def rel_from_nested_trig(self, trig, R_KIND='X'):
-        nodes = [("-[:%s {value:%s}]->" % (R_KIND, str(info)), self.nodify_id(k1), self.nodify_id(k2)) for k1, d2 in trig.items() for k2, info in d2.items()]
+        nodes = [("-[:%s {Kind:'%s'}]->" % (R_KIND, R_KIND), self.nodify_id(k1), self.nodify_id(k2)) for k1, d2 in trig.items() for k2, info in d2.items()]
         return "\n".join(["MERGE " + r.join([t1, t2]) for r, t1, t2 in nodes])
 
     def node_merges(self, nodes, yet_declared=set()):
@@ -112,7 +121,6 @@ class Neo4JHandler:
             return self.__edge_merges(complex, D_KIND=D_KIND, info=info)
 
     def __edge_merges(self, complex, D_KIND='D', info=None):
-
             nodes = [self.nodify(n, kind=False, tokens=False) for n in complex]
             #connector_node = [a['id'] for a in sorted(complex, key=lambda x: x['kind']]
             edges =  self.edgify(nodes,KIND=D_KIND )

@@ -1,37 +1,41 @@
 from math import log
 
 import scipy
+from xnym_embeddings.xnym_embeddings import wordnet_lookup_xnyms, get_hyponyms, get_antonyms, get_cohypernyms, \
+    get_cohyponyms, get_hypernyms, get_synonyms, search_sequence_numpy
 
 import basic_nlp_annotator
 import similaritymixer
 import wmd_simmilarity_mixer
 import neo4j_handler
 from helpers.color_logger import *
-
+import pprint
+import wmd_simmilarity_mixer
 #analog = similaritymixer.SimilarityMixer(  #
-#    similarity_composition=[(1,similaritymixer.SimilarityMixer.multi_kind_tup_sim(wmd_simmilarity_mixer.wmd_similarity, n=4), -3,3),
-#                            (-20,similaritymixer.SimilarityMixer.multi_kind_tup_sim(similaritymixer.SimilarityMixer.same_expression_sim), 0, 1)])
 
 #subordinated = similaritymixer.SimilarityMixer(  #
 #    similarity_composition=[(1,similaritymixer.SimilarityMixer.multi_kind_tup_sim(wmd_simmilarity_mixer.wmd_similarity, assign={"SUBJECT":"CONTRAST"}),  0.0006, 1)], verbose=True)
 #subordinated = similaritymixer.SimilarityMixer(  #
 #    similarity_composition=[(1,similaritymixer.SimilarityMixer.multi_kind_tup_sim(wmd_simmilarity_mixer.biopython_diff_encircle, assign={"SUBJECT":"CONTRAST"}),  0.0006, 1)], verbose=True)
+from littletools.nested_list_tools import flatten, flatten_list
+
 subordinated = similaritymixer.SimilarityMixer(  #
     similarity_composition=[(1,similaritymixer.SimilarityMixer.multi_kind_tup_sim(wmd_simmilarity_mixer.sub_suffixtree, assign={"SUBJECT":"CONTRAST"}),  0.0006, 1)], verbose=True)
 
 moments = similaritymixer.SimilarityMixer(
     similarity_composition=[(1,similaritymixer.SimilarityMixer.multi_kind_tup_sim(wmd_simmilarity_mixer.sub_suffixtree, assign={"SUBJECT":"CONTRAST"}, layout='both'),  0.0006, 1)], verbose=True)
 
+analogs = similaritymixer.SimilarityMixer(
+                            [(1,similaritymixer.SimilarityMixer.multi_kind_tup_sim(wmd_simmilarity_mixer.wmd_similarity, n=4), -3,3),
+                            (-20,similaritymixer.SimilarityMixer.multi_kind_tup_sim(similaritymixer.SimilarityMixer.same_expression_sim), 0, 1)])
 
-def combine (span_sets, sim):
+
+def combine (span_sets, sim, params):
     span_sets = span_sets
     nlp_annotator = basic_nlp_annotator.BasicAnnotator(layout='structured_span')
     nlp_annotated_annotations = [[[nlp_annotator.annotate(span) for span in spans] for spans in span_set] for span_set in span_sets]
     nlp_annotated_annotations = [sp for sp in nlp_annotated_annotations if sp and len(sp)>1]
-    params = {
-     'layout': '1:1',
-     'n': 10
-    }
+
     from timeit import default_timer as timer
     time_test_annotations = nlp_annotated_annotations[:20]
     start = timer()
@@ -49,14 +53,3 @@ def combine (span_sets, sim):
     time_needed = end - start
     logging.info(f"time needed for comparison:    {time_needed}s")
     return results
-
-def combine_wordnet(span_sets):
-    subjects = [s for s in span_sets if s['kind'] == 'SUBJECT']
-    to_pair = []
-    for s in subjects:
-        xnyms_of_s = xnym_embedder(s)
-        common = set(xnyms) & set(synjects)
-        if common:
-            to_pair.append([(s, c) for c in common])
-
-    return to_pair

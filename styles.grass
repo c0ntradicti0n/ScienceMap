@@ -1,0 +1,58 @@
+node {
+  diameter: 100px;
+  color: #deb986;
+  border-color: #564E58;
+  border-width: 2px;
+  text-color-internal: #FFFFFF;
+  font-size: 10px;
+  caption: '{Text}';
+
+}
+relationship {
+  color: #A5ABB6;
+  shaft-width: 5px;
+  font-size: 10px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+
+node.CONTRAST {
+  color: #F0803C;
+  caption: "{Text}";
+}
+
+node.SUBJECT {
+  color: #225560;
+  caption: "{Text}";
+}
+
+
+relationship.UNDERLIES {
+  color: #904E55;
+  shaft-width: 9px;
+  font-size: 10px;
+  padding: 5px;
+}
+
+relationship.LEVEL {
+  color: #009999;
+  shaft-width: 9px;
+  font-size: 10px;
+  padding: 5px;
+}
+
+relationship.DEF_OF{
+  color: #2932AC;
+  shaft-width: 9px;
+  font-size: 10px;
+  padding: 5px;
+}
+
+relationship.MOMENTS{
+  color: #29FFCC;
+  shaft-width: 3px;
+  font-size: 10px;
+  padding: 5px;
+}

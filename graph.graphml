@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="Kind" for="node" attr.name="Kind" attr.type="string"/>
+<key id="Lemma_Text" for="node" attr.name="Lemma_Text" attr.type="string"/>
+<key id="Text" for="node" attr.name="Text" attr.type="string"/>
+<key id="Kind" for="edge" attr.name="Kind" attr.type="string"/>
+<graph id="G" edgedefault="directed">
+<node id="n1055552" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">an is an argument that is invalid or has at least one false premises</data><data key="Lemma_Text">an be an argument that be invalid or have at least one false premise</data></node>
+<node id="n1055553" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">unsound argument</data><data key="Kind">subject</data><data key="Text">unsound argument</data></node>
+<node id="n1055554" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">a is the one that produces the effect . for example you can say that a typical virus is the cause of the disease of chickenpox . it is understood that the particular virus produces the effect called chickenpox . hence anything that produces an effect is called a cause</data><data key="Lemma_Text">a be the one that produce the effect . for example -pron- can say that a typical virus be the cause of the disease of chickenpox . -pron- be understand that the particular virus produce the effect call chickenpox . hence anything that produce an effect be call a cause</data></node>
+<node id="n1055555" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">refers to a thought or a consideration in support of an opinion . observe the usage of the word ‘ reason ’ in the sentences given below : 1 . what is the reason for your decision ? 2 . you may give me the reason behind your suggestion . in both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision</data><data key="Lemma_Text">refer to a thought or a consideration in support of an opinion . observe the usage of the word ‘ reason ’ in the sentence give below : 1 . what be the reason for -pron- decision ? 2 . -pron- may give -pron- the reason behind -pron- suggestion . in both sentence give above the word ‘ reason ’ be use in the sense of ‘ a thought ’ in support of an opinion or a decision</data></node>
+<node id="n1055556" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is the opinion or the method by which one approaches a given situation</data><data key="Lemma_Text">be the opinion or the method by which one approach a given situation</data></node>
+<node id="n1055557" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">on the other hand makes one to do a particular thing even if the world is watching</data><data key="Lemma_Text">on the other hand make one to do a particular thing even if the world be watch</data></node>
+<node id="n1055558" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">people can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc</data><data key="Lemma_Text">people can have numerous concern -pron- life , such as to educate one 's self , to be employ in a prestigious organization , to lead a beautiful life with a family , etc</data></node>
+<node id="n1055559" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">expectation</data><data key="Kind">subject</data><data key="Text">expectations</data></node>
+<node id="n1055560" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">the , on the other hand , is the state of things as they are . reality includes everything around us , those that can be seen and those that can not be seen . it includes our views , attitudes , life , those who surround us and almost every aspect</data><data key="Lemma_Text">the , on the other hand , be the state of thing as -pron- be . reality include everything around -pron- , those that can be see and those that can not be see . -pron- include -pron- view , attitude , life , those who surround -pron- and almost every aspect</data></node>
+<node id="n1055570" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is a technical feature of an argument . it helps us to determine whether the conclusion of an argument is true</data><data key="Lemma_Text">be a technical feature of an argument . -pron- help -pron- to determine whether the conclusion of an argument be true</data></node>
+<node id="n1055573" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">premise</data><data key="Kind">subject</data><data key="Text">premise</data></node>
+<node id="n1055574" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">a in an argument is the main point the arguer is trying to prove</data><data key="Lemma_Text">a in an argument be the main point the arguer be try to prove</data></node>
+<node id="n1055575" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">conclusion</data><data key="Kind">subject</data><data key="Text">conclusion</data></node>
+<node id="n1055576" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">the refers to the process of deriving generalizations from specific observations</data><data key="Lemma_Text">the refer to the process of derive generalization from specific observation</data></node>
+<node id="n1055577" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">former</data><data key="Kind">subject</data><data key="Text">former</data></node>
+<node id="n1055578" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">soundness</data><data key="Kind">subject</data><data key="Text">soundness</data></node>
+<node id="n1055579" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">the refers to the process of drawing specific conclusions from general statements / observations</data><data key="Lemma_Text">the refer to the process of draw specific conclusion from general statement / observation</data></node>
+<node id="n1055580" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">latter</data><data key="Kind">subject</data><data key="Text">latter</data></node>
+<node id="n1055581" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . in real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner</data><data key="Lemma_Text">can be either tangible , intangible , movable or immovable while premise refer to tangible and immovable property . in real estate , property refer to the entirety of the land , building , structure , machinery , equipment , etc . , own by the landowner</data></node>
+<node id="n1055582" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">refers to only that portion of the property and/or components of it that are the subject of the lease / sale</data><data key="Lemma_Text">refer to only that portion of the property and/or component of -pron- that be the subject of the lease / sale</data></node>
+<node id="n1055583" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is the power of the mind to think , understand , and form judgments logically</data><data key="Lemma_Text">be the power of the mind to think , understand , and form judgment logically</data></node>
+<node id="n1055584" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">means good enough or something that is sufficient for a need or requirement</data><data key="Lemma_Text">mean good enough or something that be sufficient for a need or requirement</data></node>
+<node id="n1055585" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">adequate</data><data key="Kind">subject</data><data key="Text">adequate</data></node>
+<node id="n1055598" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is used in situations where you mean to say sufficient</data><data key="Lemma_Text">be use in situation where -pron- mean to say sufficient</data></node>
+<node id="n1055599" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">enough</data><data key="Kind">subject</data><data key="Text">enough</data></node>
+<node id="n1055600" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">be always base on reality</data><data key="Text">is always based on reality</data><data key="Kind">contrast</data></node>
+<node id="n1055601" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">can be sometimes base on falsehood</data><data key="Text">can be sometimes based on falsehood</data><data key="Kind">contrast</data></node>
+<node id="n1055602" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">knowledge</data><data key="Kind">subject</data><data key="Text">knowledge</data></node>
+<node id="n1055618" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is a philosophical theory that states that the only authentic knowledge is scientific knowledge</data><data key="Lemma_Text">be a philosophical theory that state that the only authentic knowledge be scientific knowledge</data></node>
+<node id="n1055619" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )</data><data key="Lemma_Text">be a theory that state that the origin of all knowledge be sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )</data></node>
+<node id="n1055620" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Text">impresses us for it is felt externally</data><data key="Kind">contrast</data><data key="Lemma_Text">impress -pron- for -pron- be feel externally</data></node>
+<node id="n1055621" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">, which generally refers to a building with the land surrounding it , is tangible and immovable property</data><data key="Lemma_Text">, which generally refer to a building with the land surround -pron- , be tangible and immovable property</data></node>
+<node id="n1055622" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">: a reason simply refers to a cause or explanation</data><data key="Lemma_Text">: a reason simply refer to a cause or explanation</data></node>
+<node id="n1055623" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">: an excuse is a type of reason that specifically justifies or defends a fault</data><data key="Lemma_Text">: an excuse be a type of reason that specifically justify or defend a fault</data></node>
+<node id="n1055624" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">: a reason merely explain something</data><data key="Text">: a reason merely explains something</data><data key="Kind">contrast</data></node>
+<node id="n1055625" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">: an excuse justify the fault</data><data key="Text">: an excuse justifies the fault</data><data key="Kind">contrast</data></node>
+<node id="n1055626" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">can not be challenge</data><data key="Text">can not be challenged</data><data key="Kind">contrast</data></node>
+<node id="n1055627" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">can be challenged . truth can be challenged because it is characterized by facts . facts can always be challenged and disproved . it is important to note that proven facts are more in number though</data><data key="Lemma_Text">can be challenge . truth can be challenge because -pron- be characterize by fact . fact can always be challenge and disprove . -pron- be important to note that proven fact be more in number though</data></node>
+<node id="n1055638" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">be honest</data><data key="Kind">subject</data><data key="Text">being honest</data></node>
+<node id="n1055639" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">refers to anything that is owned by a person or an entity</data><data key="Lemma_Text">refer to anything that be own by a person or an entity</data></node>
+<node id="n1055640" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">property</data><data key="Kind">subject</data><data key="Text">property</data></node>
+<node id="n1055641" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">refer to land and building on -pron-</data><data key="Text">refer to land and buildings on it</data><data key="Kind">contrast</data></node>
+<node id="n1055642" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">premise</data><data key="Kind">subject</data><data key="Text">premises</data></node>
+<node id="n1055643" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">can be either tangible , intangible , movable or immovable</data><data key="Lemma_Text">can be either tangible , intangible , movable or immovable</data></node>
+<node id="n1055650" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">are not felt simply because they are well within an individual</data><data key="Lemma_Text">be not feel simply because -pron- be well within an individual</data></node>
+<node id="n1055651" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">attitude</data><data key="Kind">subject</data><data key="Text">attitudes</data></node>
+<node id="n1157516" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is the quality of a statement being true or accurate</data><data key="Lemma_Text">be the quality of a statement be true or accurate</data></node>
+<node id="n1157517" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">an argument is when its conclusion follows logically from the premises</data><data key="Lemma_Text">an argument be when -pron- conclusion follow logically from the premise</data></node>
+<node id="n1157518" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Kind">subject</data><data key="Text">valid</data><data key="Lemma_Text">valid</data></node>
+<node id="n1157519" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">a is an argument that is valid and has true premises</data><data key="Lemma_Text">a be an argument that be valid and have true premise</data></node>
+<node id="n1157520" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">sound argument</data><data key="Kind">subject</data><data key="Text">sound argument</data></node>
+<node id="n1157522" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">a argument is not necessarily a sound argument</data><data key="Lemma_Text">a argument be not necessarily a sound argument</data></node>
+<node id="n1157523" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">be an existent fact</data><data key="Text">is an existent fact</data><data key="Kind">contrast</data></node>
+<node id="n1157524" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">be an established fact</data><data key="Text">is an established fact</data><data key="Kind">contrast</data></node>
+<node id="n1157525" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">what is found out in is what is given ultimately as truth</data><data key="Lemma_Text">what be find out in be what be give ultimately as truth</data></node>
+<node id="n1157526" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">hence need the observance of reality</data><data key="Text">hence needs the observance of reality</data><data key="Kind">contrast</data></node>
+<node id="n1157540" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise</data><data key="Lemma_Text">a be a statement that provide evidence or reason to form a conclusion ; an argument can have more than one premise</data></node>
+<node id="n1157556" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is generally used in cases where there is a limited choice</data><data key="Lemma_Text">be generally use in case where there be a limited choice</data></node>
+<node id="n1157557" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Kind">subject</data><data key="Text">which</data><data key="Lemma_Text">which</data></node>
+<node id="n1157558" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">be use when the choice be big</data><data key="Text">is used when the choice is bigger</data><data key="Kind">contrast</data></node>
+<node id="n1157559" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Kind">subject</data><data key="Text">what</data><data key="Lemma_Text">what</data></node>
+<node id="n1157560" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is the very essence of a particular man . it is indeed what the person is within . it is not liable to change</data><data key="Lemma_Text">be the very essence of a particular man . -pron- be indeed what the person be within . -pron- be not liable to change</data></node>
+<node id="n1157561" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">character</data><data key="Kind">subject</data><data key="Text">character</data></node>
+<node id="n1157562" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is liable to change according to the situation . it is after all a kind of surface emotion</data><data key="Lemma_Text">be liable to change accord to the situation . -pron- be after all a kind of surface emotion</data></node>
+<node id="n1157563" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">attitude</data><data key="Kind">subject</data><data key="Text">attitude</data></node>
+<node id="n1157567" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">be a noun</data><data key="Kind">contrast</data><data key="Text">is a noun</data></node>
+<node id="n1157568" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">be a noun and a verb</data><data key="Text">is a noun and a verb</data><data key="Kind">contrast</data></node>
+<node id="n1157569" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">: the main function is not to justify , but to explain</data><data key="Lemma_Text">: the main function be not to justify , but to explain</data></node>
+<node id="n1157570" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">: the main function is to justify or defend a fault</data><data key="Lemma_Text">: the main function be to justify or defend a fault</data></node>
+<node id="n1157571" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">can not change in a short period of time</data><data key="Text">can not change in a short period of time</data><data key="Kind">contrast</data></node>
+<node id="n1157574" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">can change in a short period of time</data><data key="Text">can change in a short period of time</data><data key="Kind">contrast</data></node>
+<node id="n1157575" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits</data><data key="Lemma_Text">that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habit</data></node>
+<node id="n1157576" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">virtue</data><data key="Kind">subject</data><data key="Text">virtues</data></node>
+<node id="n1157577" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like</data><data key="Lemma_Text">that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like</data></node>
+<node id="n1157578" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Kind">subject</data><data key="Text">vices</data><data key="Lemma_Text">vice</data></node>
+<node id="n1157579" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is the application of logic to understand and judge something</data><data key="Lemma_Text">be the application of logic to understand and judge something</data></node>
+<node id="n1157580" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">reason</data><data key="Kind">subject</data><data key="Text">reason</data></node>
+<node id="n1157581" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">refer to land and buildings and other structures on it</data><data key="Lemma_Text">refer to land and building and other structure on -pron-</data></node>
+<node id="n1157582" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">the proceeds from specific premises to a general conclusion</data><data key="Lemma_Text">the proceed from specific premise to a general conclusion</data></node>
+<node id="n1157583" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">inductive reasoning</data><data key="Text">inductive reasoning</data><data key="Kind">subject</data></node>
+<node id="n1157584" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">proceeds from general premises to a specific conclusion</data><data key="Lemma_Text">proceed from general premise to a specific conclusion</data></node>
+<node id="n1157585" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">deductive reasoning</data><data key="Text">deductive reasoning</data><data key="Kind">subject</data></node>
+<node id="n1157586" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">a always has true premises and true conclusions</data><data key="Lemma_Text">a always have true premise and true conclusion</data></node>
+<node id="n1157587" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">an may have both false and true premises and conclusions</data><data key="Lemma_Text">an may have both false and true premise and conclusion</data></node>
+<node id="n1157595" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">in , knowledge can be verified through scientific methods and mathematical / logical proof ,</data><data key="Lemma_Text">in , knowledge can be verify through scientific method and mathematical / logical proof ,</data></node>
+<node id="n1157596" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">positivism</data><data key="Kind">subject</data><data key="Text">positivism</data></node>
+<node id="n1157597" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">in , the experience is the origin of knowledge</data><data key="Lemma_Text">in , the experience be the origin of knowledge</data></node>
+<node id="n1157598" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">empiricism</data><data key="Kind">subject</data><data key="Text">empiricism</data></node>
+<node id="n1157599" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">a simply refers to a cause or explanation . it explains why someone did something or why something happened</data><data key="Lemma_Text">a simply refer to a cause or explanation . -pron- explain why someone do something or why something happen</data></node>
+<node id="n1157600" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">an , on the other hand , is also a type of reason that specifically justifies or defends a fault</data><data key="Lemma_Text">an , on the other hand , be also a type of reason that specifically justify or defend a fault</data></node>
+<node id="n1157601" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">excuse</data><data key="Kind">subject</data><data key="Text">excuse</data></node>
+<node id="n1157602" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">has special application in the subject of philosophy . reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . hence reason includes judgment , conception , reasoning and intuition too</data><data key="Lemma_Text">have special application in the subject of philosophy . reason be the faculty or the capacity of the human mind by which -pron- be distinguish from the intelligence of the low animal . hence reason include judgment , conception , reasoning and intuition too</data></node>
+<node id="n1157603" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">has nothing to do with judgment , conception , reasoning and intuition for that matter</data><data key="Lemma_Text">have nothing to do with judgment , conception , reasoning and intuition for that matter</data></node>
+<node id="n1157604" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">in the same way is the one that does not change its nature in the present and future too . it is always of the same nature</data><data key="Lemma_Text">in the same way be the one that do not change -pron- nature in the present and future too . -pron- be always of the same nature</data></node>
+<node id="n1157605" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">reality</data><data key="Kind">subject</data><data key="Text">reality</data></node>
+<node id="n1157606" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">can change its nature in due course . many scientific truths were disproved in the past . the truth about the planetary motion was re - established later . hence truth sometimes is bound to change</data><data key="Lemma_Text">can change -pron- nature in due course . many scientific truth be disprove in the past . the truth about the planetary motion be re - establish later . hence truth sometimes be bind to change</data></node>
+<node id="n1157607" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is the systematic study of the form of arguments</data><data key="Lemma_Text">be the systematic study of the form of argument</data></node>
+<node id="n1157608" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Kind">subject</data><data key="Text">logic</data><data key="Lemma_Text">logic</data></node>
+<node id="n1157613" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Kind">subject</data><data key="Text">cause</data><data key="Lemma_Text">cause</data></node>
+<node id="n1157614" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">a argument be valid and have true premise</data><data key="Text">a argument is valid and has true premises</data><data key="Kind">contrast</data></node>
+<node id="n1157615" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Kind">subject</data><data key="Text">sound</data><data key="Lemma_Text">sound</data></node>
+<node id="n1157616" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">an argument is invalid and/or has at least one false premises</data><data key="Lemma_Text">an argument be invalid and/or have at least one false premise</data></node>
+<node id="n1157617" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">unsound</data><data key="Kind">subject</data><data key="Text">unsound</data></node>
+<node id="n1157622" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">is the way how a person understands something and different people may have different perceptions for the same thing</data><data key="Lemma_Text">be the way how a person understand something and different people may have different perception for the same thing</data></node>
+<node id="n1157623" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">perception</data><data key="Kind">subject</data><data key="Text">perception</data></node>
+<node id="n1157624" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Kind">contrast</data><data key="Text">, on the other hand , is the truth and the actual existence of something</data><data key="Lemma_Text">, on the other hand , be the truth and the actual existence of something</data></node>
+<node id="n1157625" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">realty</data><data key="Kind">subject</data><data key="Text">realty</data></node>
+<node id="n1157638" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">be a property of premise and conclusion</data><data key="Text">is a property of premises and conclusions</data><data key="Kind">contrast</data></node>
+<node id="n1157654" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Kind">subject</data><data key="Text">truth</data><data key="Lemma_Text">truth</data></node>
+<node id="n1157674" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">be a property of argument</data><data key="Text">is a property of arguments</data><data key="Kind">contrast</data></node>
+<node id="n1157675" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">validity</data><data key="Kind">subject</data><data key="Text">validity</data></node>
+<node id="n1157676" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">be only limited to tell the truth</data><data key="Text">is only limited to telling the truth</data><data key="Kind">contrast</data></node>
+<node id="n1157677" labels=":SUBJECT"><data key="labels">:SUBJECT</data><data key="Lemma_Text">truthfulness</data><data key="Kind">subject</data><data key="Text">truthfulness</data></node>
+<node id="n1157678" labels=":CONTRAST"><data key="labels">:CONTRAST</data><data key="Lemma_Text">also include the quality of be sincere</data><data key="Text">also includes the quality of being sincere</data><data key="Kind">contrast</data></node>
+<edge id="e0" source="n1157519" target="n1157520" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e1" source="n1157517" target="n1157518" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e2" source="n1157654" target="n1157518" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e3" source="n1157520" target="n1055553" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e4" source="n1157654" target="n1157519" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e5" source="n1157518" target="n1055552" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e6" source="n1055555" target="n1157580" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e7" source="n1055554" target="n1157613" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e8" source="n1157613" target="n1157580" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e9" source="n1157613" target="n1157599" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e10" source="n1157580" target="n1157600" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e11" source="n1055558" target="n1055559" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e12" source="n1055560" target="n1157605" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e13" source="n1055556" target="n1157563" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e14" source="n1055557" target="n1157561" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e15" source="n1157563" target="n1157561" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e16" source="n1055559" target="n1157605" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e17" source="n1157563" target="n1055560" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e18" source="n1157561" target="n1055558" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e19" source="n1157561" target="n1157575" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e20" source="n1055577" target="n1055580" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e21" source="n1055573" target="n1055576" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e22" source="n1055575" target="n1055579" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e23" source="n1055581" target="n1055640" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e24" source="n1055582" target="n1055642" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e25" source="n1055640" target="n1055582" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e26" source="n1055642" target="n1055581" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e27" source="n1157520" target="n1157522" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e40" source="n1055553" target="n1055570" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e41" source="n1055583" target="n1157580" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e42" source="n1157608" target="n1157579" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e43" source="n1157580" target="n1157607" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e44" source="n1157580" target="n1055622" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e45" source="n1157601" target="n1055623" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e46" source="n1055584" target="n1055585" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e47" source="n1055598" target="n1055599" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e48" source="n1055585" target="n1055599" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e49" source="n1055585" target="n1055598" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e50" source="n1157516" target="n1157654" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e51" source="n1055552" target="n1055553" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e52" source="n1055599" target="n1055584" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e53" source="n1055618" target="n1157596" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e54" source="n1157568" target="n1157580" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e55" source="n1157567" target="n1157608" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e56" source="n1157608" target="n1055583" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e57" source="n1157569" target="n1157580" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e58" source="n1157570" target="n1157601" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e59" source="n1157580" target="n1157540" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e60" source="n1157601" target="n1055574" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e61" source="n1157577" target="n1157578" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e62" source="n1157571" target="n1157561" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e63" source="n1157574" target="n1157563" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e64" source="n1157575" target="n1157576" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e65" source="n1157576" target="n1157578" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e66" source="n1157561" target="n1157575" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e67" source="n1157563" target="n1157577" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e68" source="n1157622" target="n1157623" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e69" source="n1157624" target="n1157625" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e70" source="n1157623" target="n1157625" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e71" source="n1157623" target="n1157622" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e72" source="n1157625" target="n1157624" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e73" source="n1055640" target="n1157638" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e74" source="n1157599" target="n1157580" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e75" source="n1157602" target="n1157580" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e76" source="n1157603" target="n1157613" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e77" source="n1157580" target="n1157601" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e78" source="n1157580" target="n1157613" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e79" source="n1157580" target="n1157602" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e80" source="n1157601" target="n1157603" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e81" source="n1157616" target="n1157617" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e82" source="n1157614" target="n1157615" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e83" source="n1157615" target="n1157617" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e84" source="n1055640" target="n1157582" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e85" source="n1055642" target="n1157584" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e86" source="n1055640" target="n1157584" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e87" source="n1055642" target="n1157582" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e88" source="n1055640" target="n1157614" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e89" source="n1055642" target="n1157616" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e90" source="n1055640" target="n1157616" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e91" source="n1055642" target="n1157614" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e92" source="n1055640" target="n1157519" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e93" source="n1055642" target="n1055552" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e94" source="n1055623" target="n1157601" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e95" source="n1055622" target="n1157580" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e96" source="n1157580" target="n1055624" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e97" source="n1157601" target="n1055625" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e98" source="n1157580" target="n1055555" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e99" source="n1157613" target="n1055554" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e100" source="n1055626" target="n1157605" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e101" source="n1055627" target="n1157654" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e102" source="n1157561" target="n1055627" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e103" source="n1157563" target="n1055626" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e104" source="n1055559" target="n1055601" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e105" source="n1157605" target="n1055600" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e106" source="n1055578" target="n1157614" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e107" source="n1157518" target="n1157616" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e108" source="n1055578" target="n1157616" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e109" source="n1157518" target="n1157614" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e110" source="n1055578" target="n1157519" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e111" source="n1157518" target="n1055552" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e112" source="n1055578" target="n1055552" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e113" source="n1157518" target="n1157519" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e114" source="n1055619" target="n1157598" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e115" source="n1157560" target="n1157561" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e116" source="n1157556" target="n1157557" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e117" source="n1157558" target="n1157559" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e118" source="n1157562" target="n1157563" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e119" source="n1157557" target="n1157559" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e120" source="n1157561" target="n1157563" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e121" source="n1157557" target="n1157562" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e122" source="n1157559" target="n1157560" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e123" source="n1055601" target="n1055602" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e124" source="n1055600" target="n1157654" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e125" source="n1157654" target="n1055602" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e126" source="n1157654" target="n1055618" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e127" source="n1055602" target="n1055619" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e128" source="n1157601" target="n1157603" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e129" source="n1157601" target="n1157602" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e130" source="n1157613" target="n1055622" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e131" source="n1157613" target="n1055623" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e132" source="n1055620" target="n1157561" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e133" source="n1055650" target="n1055651" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e134" source="n1157561" target="n1055651" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e135" source="n1055651" target="n1157577" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e136" source="n1055651" target="n1157575" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e142" source="n1157654" target="n1157525" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e158" source="n1055579" target="n1055580" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e159" source="n1055576" target="n1055577" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e160" source="n1157540" target="n1055573" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e161" source="n1055574" target="n1055575" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e162" source="n1055573" target="n1055575" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e167" source="n1055573" target="n1157587" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e168" source="n1055575" target="n1157586" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e180" source="n1055570" target="n1055578" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e181" source="n1157522" target="n1157518" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e182" source="n1055578" target="n1157518" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e183" source="n1055578" target="n1157519" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e184" source="n1157523" target="n1157605" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e185" source="n1157525" target="n1157605" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e186" source="n1157524" target="n1157654" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e187" source="n1157526" target="n1157654" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e188" source="n1157605" target="n1157526" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e196" source="n1055642" target="n1157674" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e197" source="n1055640" target="n1157674" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e198" source="n1055642" target="n1157638" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e199" source="n1055640" target="n1055581" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e200" source="n1055642" target="n1055582" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e201" source="n1055640" target="n1055582" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e202" source="n1055642" target="n1055581" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e203" source="n1157613" target="n1157603" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e204" source="n1157613" target="n1157602" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e224" source="n1157674" target="n1157675" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e225" source="n1157678" target="n1055638" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e226" source="n1157676" target="n1157677" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e227" source="n1157638" target="n1157654" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e228" source="n1157654" target="n1157675" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e229" source="n1157677" target="n1055638" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e230" source="n1157654" target="n1157676" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e231" source="n1157675" target="n1157678" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e232" source="n1055639" target="n1055640" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e233" source="n1055641" target="n1055642" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e234" source="n1055643" target="n1055640" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e235" source="n1055621" target="n1055642" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e239" source="n1055640" target="n1055642" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e240" source="n1055640" target="n1055621" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e241" source="n1055642" target="n1055643" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e242" source="n1055625" target="n1157601" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e243" source="n1055624" target="n1157580" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e248" source="n1055640" target="n1055552" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e249" source="n1055642" target="n1157519" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e250" source="n1157581" target="n1055642" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e251" source="n1055640" target="n1157674" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e252" source="n1055642" target="n1157638" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e253" source="n1157587" target="n1055553" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e254" source="n1157584" target="n1157585" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e255" source="n1157582" target="n1157583" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e256" source="n1157586" target="n1157520" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e257" source="n1157583" target="n1157585" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e258" source="n1055573" target="n1157582" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e259" source="n1055575" target="n1157584" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e265" source="n1055573" target="n1157584" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e266" source="n1055640" target="n1157586" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e267" source="n1055642" target="n1157587" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e268" source="n1055640" target="n1157587" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e269" source="n1055642" target="n1157586" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e270" source="n1157608" target="n1055622" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e271" source="n1157580" target="n1055623" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e272" source="n1157608" target="n1055623" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e273" source="n1157580" target="n1055622" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e274" source="n1157608" target="n1157602" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e275" source="n1157580" target="n1157603" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e276" source="n1157608" target="n1157603" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e277" source="n1157580" target="n1157602" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e279" source="n1055575" target="n1157582" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e281" source="n1055573" target="n1157586" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e287" source="n1157601" target="n1055623" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e288" source="n1157601" target="n1055622" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e289" source="n1157580" target="n1055624" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e290" source="n1157601" target="n1055625" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e291" source="n1157580" target="n1055625" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e292" source="n1157601" target="n1055624" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e300" source="n1055575" target="n1157587" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e307" source="n1157606" target="n1157654" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e308" source="n1157604" target="n1157605" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e309" source="n1157605" target="n1157654" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e310" source="n1157654" target="n1157606" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e311" source="n1157675" target="n1157604" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e312" source="n1157607" target="n1157608" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e313" source="n1157579" target="n1157580" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e314" source="n1157597" target="n1157598" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e315" source="n1157595" target="n1157596" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e316" source="n1157608" target="n1157580" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e317" source="n1157596" target="n1157598" label="Level"><data key="label">Level</data><data key="Kind">Level</data></edge>
+<edge id="e318" source="n1157608" target="n1157595" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e319" source="n1157580" target="n1157597" label="Based_on"><data key="label">Based_on</data><data key="Kind">Based_on</data></edge>
+<edge id="e320" source="n1157600" target="n1157601" label="Def"><data key="label">Def</data><data key="Kind">Def</data></edge>
+<edge id="e322" source="n1157563" target="n1157577" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e323" source="n1157561" target="n1157577" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+<edge id="e324" source="n1157563" target="n1157575" label="Moment_of"><data key="label">Moment_of</data><data key="Kind">Moment_of</data></edge>
+</graph>
+</graphml>
