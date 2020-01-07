@@ -1,0 +1,1171 @@
+|n1|rel|n2
+0|is a property of premises and conclusions|defines|truth
+1|is a property of arguments|defines|validity
+2|In the same way is the one that does not change its nature in the present and future too . It is always of the same nature|defines|reality
+3|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|defines|truth
+4|is a property of premises and conclusions|opposed|is a property of arguments
+5|In the same way is the one that does not change its nature in the present and future too . It is always of the same nature|opposed|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change
+6|is a property of premises and conclusions|Based_on|In the same way is the one that does not change its nature in the present and future too . It is always of the same nature
+7|truth|Based_on|reality
+8|is a property of premises and conclusions|Based_on|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change
+9|truth|Based_on|truth
+10|is a property of arguments|Based_on|In the same way is the one that does not change its nature in the present and future too . It is always of the same nature
+11|validity|Based_on|reality
+12|is a property of arguments|Based_on|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change
+13|validity|Based_on|truth
+14|is the quality of a statement being true or accurate|defines|Truth
+15|An argument is when its conclusion follows logically from the premises|defines|valid
+16|A is an argument that is valid and has true premises|defines|sound argument
+17|an is an argument that is invalid or has at least one false premises|defines|unsound argument
+18|is the quality of a statement being true or accurate|opposed|An argument is when its conclusion follows logically from the premises
+19|A is an argument that is valid and has true premises|opposed|an is an argument that is invalid or has at least one false premises
+20|is the quality of a statement being true or accurate|Based_on|A is an argument that is valid and has true premises
+21|Truth|Based_on|sound argument
+22|is the quality of a statement being true or accurate|Based_on|an is an argument that is invalid or has at least one false premises
+23|Truth|Based_on|unsound argument
+24|An argument is when its conclusion follows logically from the premises|Based_on|A is an argument that is valid and has true premises
+25|valid|Based_on|sound argument
+26|An argument is when its conclusion follows logically from the premises|Based_on|an is an argument that is invalid or has at least one false premises
+27|valid|Based_on|unsound argument
+28|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|defines|premise
+29|A in an argument is the main point the arguer is trying to prove|defines|conclusion
+30|The refers to the process of deriving generalizations from specific observations|defines|former
+31|the refers to the process of drawing specific conclusions from general statements / observations|defines|latter
+32|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|opposed|A in an argument is the main point the arguer is trying to prove
+33|The refers to the process of deriving generalizations from specific observations|opposed|the refers to the process of drawing specific conclusions from general statements / observations
+34|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Based_on|The refers to the process of deriving generalizations from specific observations
+35|premise|Based_on|former
+36|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Based_on|the refers to the process of drawing specific conclusions from general statements / observations
+37|premise|Based_on|latter
+38|A in an argument is the main point the arguer is trying to prove|Based_on|The refers to the process of deriving generalizations from specific observations
+39|conclusion|Based_on|former
+40|A in an argument is the main point the arguer is trying to prove|Based_on|the refers to the process of drawing specific conclusions from general statements / observations
+41|conclusion|Based_on|latter
+42|refers to anything that is owned by a person or an entity|defines|property
+43|refer to land and buildings on it|defines|premises
+44|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|defines|Property
+45|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|defines|premises
+46|refers to anything that is owned by a person or an entity|opposed|refer to land and buildings on it
+47|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|opposed|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+48|refers to anything that is owned by a person or an entity|Based_on|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+49|property|Based_on|Property
+50|refers to anything that is owned by a person or an entity|Based_on|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+51|property|Based_on|premises
+52|refer to land and buildings on it|Based_on|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+53|premises|Based_on|Property
+54|refer to land and buildings on it|Based_on|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+55|premises|Based_on|premises
+56|can be either tangible , intangible , movable or immovable|defines|Property
+57|, which generally refers to a building with the land surrounding it , is tangible and immovable property|defines|Premises
+58|can be either tangible , intangible , movable or immovable|defines|Property
+59|, which generally refers to a building with the land surrounding it , is tangible and immovable property|defines|Premises
+60|can be either tangible , intangible , movable or immovable|opposed|, which generally refers to a building with the land surrounding it , is tangible and immovable property
+61|can be either tangible , intangible , movable or immovable|opposed|, which generally refers to a building with the land surrounding it , is tangible and immovable property
+62|can be either tangible , intangible , movable or immovable|Based_on|can be either tangible , intangible , movable or immovable
+63|Property|Based_on|Property
+64|can be either tangible , intangible , movable or immovable|Based_on|, which generally refers to a building with the land surrounding it , is tangible and immovable property
+65|Property|Based_on|Premises
+66|, which generally refers to a building with the land surrounding it , is tangible and immovable property|Based_on|can be either tangible , intangible , movable or immovable
+67|Premises|Based_on|Property
+68|, which generally refers to a building with the land surrounding it , is tangible and immovable property|Based_on|, which generally refers to a building with the land surrounding it , is tangible and immovable property
+69|Premises|Based_on|Premises
+70|refers to anything that is owned by a person or an entity|defines|Property
+71|refer to land and buildings and other structures on it|defines|premises
+72|the is determined by various factors such as common sense , personal experience , investigation , etc .|defines|truth of a premise or a conclusion
+73|when the conclusion follows logically from the premises|defines|an argument is valid
+74|refers to anything that is owned by a person or an entity|opposed|refer to land and buildings and other structures on it
+75|the is determined by various factors such as common sense , personal experience , investigation , etc .|opposed|when the conclusion follows logically from the premises
+76|refers to anything that is owned by a person or an entity|Based_on|the is determined by various factors such as common sense , personal experience , investigation , etc .
+77|Property|Based_on|truth of a premise or a conclusion
+78|refers to anything that is owned by a person or an entity|Based_on|when the conclusion follows logically from the premises
+79|Property|Based_on|an argument is valid
+80|refer to land and buildings and other structures on it|Based_on|the is determined by various factors such as common sense , personal experience , investigation , etc .
+81|premises|Based_on|truth of a premise or a conclusion
+82|refer to land and buildings and other structures on it|Based_on|when the conclusion follows logically from the premises
+83|premises|Based_on|an argument is valid
+84|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|defines|Property
+85|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|defines|premises
+86|is a property of premises and conclusions|defines|truth
+87|is a property of arguments|defines|validity
+88|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|opposed|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+89|is a property of premises and conclusions|opposed|is a property of arguments
+90|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Based_on|is a property of premises and conclusions
+91|Property|Based_on|truth
+92|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Based_on|is a property of arguments
+93|Property|Based_on|validity
+94|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Based_on|is a property of premises and conclusions
+95|premises|Based_on|truth
+96|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Based_on|is a property of arguments
+97|premises|Based_on|validity
+98|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true|defines|Soundness
+99|A argument is not necessarily a sound argument|defines|valid
+100|a argument is valid and has true premises|defines|sound
+101|an argument is invalid and/or has at least one false premises|defines|unsound
+102|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true|opposed|A argument is not necessarily a sound argument
+103|a argument is valid and has true premises|opposed|an argument is invalid and/or has at least one false premises
+104|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true|Based_on|a argument is valid and has true premises
+105|Soundness|Based_on|sound
+106|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true|Based_on|an argument is invalid and/or has at least one false premises
+107|Soundness|Based_on|unsound
+108|A argument is not necessarily a sound argument|Based_on|a argument is valid and has true premises
+109|valid|Based_on|sound
+110|A argument is not necessarily a sound argument|Based_on|an argument is invalid and/or has at least one false premises
+111|valid|Based_on|unsound
+112|a always has true premises and true conclusions|defines|sound argument
+113|an may have both false and true premises and conclusions|defines|unsound argument
+114|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true|defines|Soundness
+115|A argument is not necessarily a sound argument|defines|valid
+116|a always has true premises and true conclusions|opposed|an may have both false and true premises and conclusions
+117|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true|opposed|A argument is not necessarily a sound argument
+118|a always has true premises and true conclusions|Based_on|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true
+119|sound argument|Based_on|Soundness
+120|a always has true premises and true conclusions|Based_on|A argument is not necessarily a sound argument
+121|sound argument|Based_on|valid
+122|an may have both false and true premises and conclusions|Based_on|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true
+123|unsound argument|Based_on|Soundness
+124|an may have both false and true premises and conclusions|Based_on|A argument is not necessarily a sound argument
+125|unsound argument|Based_on|valid
+126|is generally used in cases where there is a limited choice|defines|which
+127|is used when the choice is bigger|defines|what
+128|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change|defines|Character
+129|is liable to change according to the situation . It is after all a kind of surface emotion|defines|Attitude
+130|is generally used in cases where there is a limited choice|opposed|is used when the choice is bigger
+131|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change|opposed|is liable to change according to the situation . It is after all a kind of surface emotion
+132|is generally used in cases where there is a limited choice|Based_on|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change
+133|which|Based_on|Character
+134|is generally used in cases where there is a limited choice|Based_on|is liable to change according to the situation . It is after all a kind of surface emotion
+135|which|Based_on|Attitude
+136|is used when the choice is bigger|Based_on|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change
+137|what|Based_on|Character
+138|is used when the choice is bigger|Based_on|is liable to change according to the situation . It is after all a kind of surface emotion
+139|what|Based_on|Attitude
+140|is the systematic study of the form of arguments|defines|logic
+141|is the application of logic to understand and judge something|defines|reason
+142|In , knowledge can be verified through scientific methods and mathematical / logical proof ,|defines|positivism
+143|in , the experience is the origin of knowledge|defines|empiricism
+144|is the systematic study of the form of arguments|opposed|is the application of logic to understand and judge something
+145|In , knowledge can be verified through scientific methods and mathematical / logical proof ,|opposed|in , the experience is the origin of knowledge
+146|is the systematic study of the form of arguments|Based_on|In , knowledge can be verified through scientific methods and mathematical / logical proof ,
+147|logic|Based_on|positivism
+148|is the systematic study of the form of arguments|Based_on|in , the experience is the origin of knowledge
+149|logic|Based_on|empiricism
+150|is the application of logic to understand and judge something|Based_on|In , knowledge can be verified through scientific methods and mathematical / logical proof ,
+151|reason|Based_on|positivism
+152|is the application of logic to understand and judge something|Based_on|in , the experience is the origin of knowledge
+153|reason|Based_on|empiricism
+154|is the systematic study of the form of arguments|defines|Logic
+155|is the power of the mind to think , understand , and form judgments logically|defines|Reason
+156|is the systematic study of the form of arguments|defines|logic
+157|is the application of logic to understand and judge something|defines|reason
+158|is the systematic study of the form of arguments|opposed|is the power of the mind to think , understand , and form judgments logically
+159|is the systematic study of the form of arguments|opposed|is the application of logic to understand and judge something
+160|is the systematic study of the form of arguments|Based_on|is the systematic study of the form of arguments
+161|Logic|Based_on|logic
+162|is the systematic study of the form of arguments|Based_on|is the application of logic to understand and judge something
+163|Logic|Based_on|reason
+164|is the power of the mind to think , understand , and form judgments logically|Based_on|is the systematic study of the form of arguments
+165|Reason|Based_on|logic
+166|is the power of the mind to think , understand , and form judgments logically|Based_on|is the application of logic to understand and judge something
+167|Reason|Based_on|reason
+168|is a noun|defines|Logic
+169|is a noun and a verb|defines|Reason
+170|is the systematic study of the form of arguments|defines|Logic
+171|is the power of the mind to think , understand , and form judgments logically|defines|Reason
+172|is a noun|opposed|is a noun and a verb
+173|is the systematic study of the form of arguments|opposed|is the power of the mind to think , understand , and form judgments logically
+174|is a noun|Based_on|is the systematic study of the form of arguments
+175|Logic|Based_on|Logic
+176|is a noun|Based_on|is the power of the mind to think , understand , and form judgments logically
+177|Logic|Based_on|Reason
+178|is a noun and a verb|Based_on|is the systematic study of the form of arguments
+179|Reason|Based_on|Logic
+180|is a noun and a verb|Based_on|is the power of the mind to think , understand , and form judgments logically
+181|Reason|Based_on|Reason
+182|A simply refers to a cause or explanation . It explains why someone did something or why something happened|defines|reason
+183|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|defines|excuse
+184|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|defines|Reason
+185|has nothing to do with judgment , conception , reasoning and intuition for that matter|defines|cause
+186|A simply refers to a cause or explanation . It explains why someone did something or why something happened|opposed|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+187|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|opposed|has nothing to do with judgment , conception , reasoning and intuition for that matter
+188|A simply refers to a cause or explanation . It explains why someone did something or why something happened|Based_on|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+189|reason|Based_on|Reason
+190|A simply refers to a cause or explanation . It explains why someone did something or why something happened|Based_on|has nothing to do with judgment , conception , reasoning and intuition for that matter
+191|reason|Based_on|cause
+192|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|Based_on|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+193|excuse|Based_on|Reason
+194|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|Based_on|has nothing to do with judgment , conception , reasoning and intuition for that matter
+195|excuse|Based_on|cause
+196|: A reason simply refers to a cause or explanation|defines|Reason
+197|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+198|: A reason merely explains something|defines|Reason
+199|: An excuse justifies the fault|defines|Excuse
+200|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+201|: A reason merely explains something|opposed|: An excuse justifies the fault
+202|: A reason simply refers to a cause or explanation|Based_on|: A reason merely explains something
+203|Reason|Based_on|Reason
+204|: A reason simply refers to a cause or explanation|Based_on|: An excuse justifies the fault
+205|Reason|Based_on|Excuse
+206|: An excuse is a type of reason that specifically justifies or defends a fault|Based_on|: A reason merely explains something
+207|Excuse|Based_on|Reason
+208|: An excuse is a type of reason that specifically justifies or defends a fault|Based_on|: An excuse justifies the fault
+209|Excuse|Based_on|Excuse
+210|: A reason merely explains something|defines|Reason
+211|: An excuse justifies the fault|defines|Excuse
+212|: A reason simply refers to a cause or explanation|defines|Reason
+213|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+214|: A reason merely explains something|opposed|: An excuse justifies the fault
+215|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+216|: A reason merely explains something|Based_on|: A reason simply refers to a cause or explanation
+217|Reason|Based_on|Reason
+218|: A reason merely explains something|Based_on|: An excuse is a type of reason that specifically justifies or defends a fault
+219|Reason|Based_on|Excuse
+220|: An excuse justifies the fault|Based_on|: A reason simply refers to a cause or explanation
+221|Excuse|Based_on|Reason
+222|: An excuse justifies the fault|Based_on|: An excuse is a type of reason that specifically justifies or defends a fault
+223|Excuse|Based_on|Excuse
+224|: The main function is not to justify , but to explain|defines|Reason
+225|: The main function is to justify or defend a fault|defines|Excuse
+226|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|defines|premise
+227|A in an argument is the main point the arguer is trying to prove|defines|conclusion
+228|: The main function is not to justify , but to explain|opposed|: The main function is to justify or defend a fault
+229|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|opposed|A in an argument is the main point the arguer is trying to prove
+230|: The main function is not to justify , but to explain|Based_on|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise
+231|Reason|Based_on|premise
+232|: The main function is not to justify , but to explain|Based_on|A in an argument is the main point the arguer is trying to prove
+233|Reason|Based_on|conclusion
+234|: The main function is to justify or defend a fault|Based_on|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise
+235|Excuse|Based_on|premise
+236|: The main function is to justify or defend a fault|Based_on|A in an argument is the main point the arguer is trying to prove
+237|Excuse|Based_on|conclusion
+238|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|defines|cause
+239|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|defines|reason
+240|A simply refers to a cause or explanation . It explains why someone did something or why something happened|defines|reason
+241|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|defines|excuse
+242|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|opposed|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+243|A simply refers to a cause or explanation . It explains why someone did something or why something happened|opposed|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+244|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|Based_on|A simply refers to a cause or explanation . It explains why someone did something or why something happened
+245|cause|Based_on|reason
+246|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|Based_on|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+247|cause|Based_on|excuse
+248|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|Based_on|A simply refers to a cause or explanation . It explains why someone did something or why something happened
+249|reason|Based_on|reason
+250|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|Based_on|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+251|reason|Based_on|excuse
+252|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|defines|Reason
+253|has nothing to do with judgment , conception , reasoning and intuition for that matter|defines|cause
+254|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|defines|cause
+255|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|defines|reason
+256|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|opposed|has nothing to do with judgment , conception , reasoning and intuition for that matter
+257|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|opposed|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+258|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|Based_on|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+259|Reason|Based_on|cause
+260|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|Based_on|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+261|Reason|Based_on|reason
+262|has nothing to do with judgment , conception , reasoning and intuition for that matter|Based_on|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+263|cause|Based_on|cause
+264|has nothing to do with judgment , conception , reasoning and intuition for that matter|Based_on|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+265|cause|Based_on|reason
+266|means good enough or something that is sufficient for a need or requirement|defines|Adequate
+267|is used in situations where you mean to say sufficient|defines|Enough
+268|means good enough or something that is sufficient for a need or requirement|defines|Adequate
+269|is used in situations where you mean to say sufficient|defines|Enough
+270|means good enough or something that is sufficient for a need or requirement|opposed|is used in situations where you mean to say sufficient
+271|means good enough or something that is sufficient for a need or requirement|opposed|is used in situations where you mean to say sufficient
+272|means good enough or something that is sufficient for a need or requirement|Based_on|means good enough or something that is sufficient for a need or requirement
+273|Adequate|Based_on|Adequate
+274|means good enough or something that is sufficient for a need or requirement|Based_on|is used in situations where you mean to say sufficient
+275|Adequate|Based_on|Enough
+276|is used in situations where you mean to say sufficient|Based_on|means good enough or something that is sufficient for a need or requirement
+277|Enough|Based_on|Adequate
+278|is used in situations where you mean to say sufficient|Based_on|is used in situations where you mean to say sufficient
+279|Enough|Based_on|Enough
+280|is the opinion or the method by which one approaches a given situation|defines|Attitude
+281|on the other hand makes one to do a particular thing even if the world is watching|defines|Character
+282|People can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc|defines|expectations
+283|The , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect|defines|reality
+284|is the opinion or the method by which one approaches a given situation|opposed|on the other hand makes one to do a particular thing even if the world is watching
+285|People can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc|opposed|The , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect
+286|is the opinion or the method by which one approaches a given situation|Based_on|People can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc
+287|Attitude|Based_on|expectations
+288|is the opinion or the method by which one approaches a given situation|Based_on|The , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect
+289|Attitude|Based_on|reality
+290|on the other hand makes one to do a particular thing even if the world is watching|Based_on|People can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc
+291|Character|Based_on|expectations
+292|on the other hand makes one to do a particular thing even if the world is watching|Based_on|The , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect
+293|Character|Based_on|reality
+294|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change|defines|Character
+295|is liable to change according to the situation . It is after all a kind of surface emotion|defines|Attitude
+296|can not be challenged|defines|reality
+297|can be challenged . Truth can be challenged because it is characterized by facts . Facts can always be challenged and disproved . It is important to note that proven facts are more in number though|defines|truth
+298|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change|opposed|is liable to change according to the situation . It is after all a kind of surface emotion
+299|can not be challenged|opposed|can be challenged . Truth can be challenged because it is characterized by facts . Facts can always be challenged and disproved . It is important to note that proven facts are more in number though
+300|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change|Based_on|can not be challenged
+301|Character|Based_on|reality
+302|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change|Based_on|can be challenged . Truth can be challenged because it is characterized by facts . Facts can always be challenged and disproved . It is important to note that proven facts are more in number though
+303|Character|Based_on|truth
+304|is liable to change according to the situation . It is after all a kind of surface emotion|Based_on|can not be challenged
+305|Attitude|Based_on|reality
+306|is liable to change according to the situation . It is after all a kind of surface emotion|Based_on|can be challenged . Truth can be challenged because it is characterized by facts . Facts can always be challenged and disproved . It is important to note that proven facts are more in number though
+307|Attitude|Based_on|truth
+308|can not change in a short period of time|defines|character
+309|can change in a short period of time|defines|attitude
+310|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|defines|Virtues
+311|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like|defines|Vices
+312|can not change in a short period of time|opposed|can change in a short period of time
+313|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|opposed|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+314|can not change in a short period of time|Based_on|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+315|character|Based_on|Virtues
+316|can not change in a short period of time|Based_on|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+317|character|Based_on|Vices
+318|can change in a short period of time|Based_on|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+319|attitude|Based_on|Virtues
+320|can change in a short period of time|Based_on|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+321|attitude|Based_on|Vices
+322|is always based on reality|defines|truth
+323|can be sometimes based on falsehood|defines|knowledge
+324|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|defines|Positivism
+325|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )|defines|empiricism
+326|is always based on reality|opposed|can be sometimes based on falsehood
+327|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|opposed|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )
+328|is always based on reality|Based_on|is a philosophical theory that states that the only authentic knowledge is scientific knowledge
+329|truth|Based_on|Positivism
+330|is always based on reality|Based_on|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )
+331|truth|Based_on|empiricism
+332|can be sometimes based on falsehood|Based_on|is a philosophical theory that states that the only authentic knowledge is scientific knowledge
+333|knowledge|Based_on|Positivism
+334|can be sometimes based on falsehood|Based_on|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )
+335|knowledge|Based_on|empiricism
+336|People can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc|defines|expectations
+337|The , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect|defines|reality
+338|is always based on reality|defines|truth
+339|can be sometimes based on falsehood|defines|knowledge
+340|People can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc|opposed|The , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect
+341|is always based on reality|opposed|can be sometimes based on falsehood
+342|People can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc|Based_on|is always based on reality
+343|expectations|Based_on|truth
+344|People can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc|Based_on|can be sometimes based on falsehood
+345|expectations|Based_on|knowledge
+346|The , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect|Based_on|is always based on reality
+347|reality|Based_on|truth
+348|The , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect|Based_on|can be sometimes based on falsehood
+349|reality|Based_on|knowledge
+350|is the way how a person understands something and different people may have different perceptions for the same thing|defines|Perception
+351|, on the other hand , is the truth and the actual existence of something|defines|Realty
+352|is the way how a person understands something and different people may have different perceptions for the same thing|defines|Perception
+353|, on the other hand , is the truth and the actual existence of something|defines|Realty
+354|is the way how a person understands something and different people may have different perceptions for the same thing|opposed|, on the other hand , is the truth and the actual existence of something
+355|is the way how a person understands something and different people may have different perceptions for the same thing|opposed|, on the other hand , is the truth and the actual existence of something
+356|is the way how a person understands something and different people may have different perceptions for the same thing|Based_on|is the way how a person understands something and different people may have different perceptions for the same thing
+357|Perception|Based_on|Perception
+358|is the way how a person understands something and different people may have different perceptions for the same thing|Based_on|, on the other hand , is the truth and the actual existence of something
+359|Perception|Based_on|Realty
+360|, on the other hand , is the truth and the actual existence of something|Based_on|is the way how a person understands something and different people may have different perceptions for the same thing
+361|Realty|Based_on|Perception
+362|, on the other hand , is the truth and the actual existence of something|Based_on|, on the other hand , is the truth and the actual existence of something
+363|Realty|Based_on|Realty
+364|is an existent fact|defines|Reality
+365|is an established fact|defines|truth
+366|What is found out in is what is given ultimately as truth|defines|reality
+367|Hence needs the observance of reality|defines|truth
+368|is an existent fact|opposed|is an established fact
+369|What is found out in is what is given ultimately as truth|opposed|Hence needs the observance of reality
+370|is an existent fact|Based_on|What is found out in is what is given ultimately as truth
+371|Reality|Based_on|reality
+372|is an existent fact|Based_on|Hence needs the observance of reality
+373|Reality|Based_on|truth
+374|is an established fact|Based_on|What is found out in is what is given ultimately as truth
+375|truth|Based_on|reality
+376|is an established fact|Based_on|Hence needs the observance of reality
+377|truth|Based_on|truth
+378|In the same way is the one that does not change its nature in the present and future too . It is always of the same nature|defines|reality
+379|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|defines|truth
+380|is only limited to telling the truth|defines|truthfulness
+381|also includes the quality of being sincere|defines|being honest
+382|In the same way is the one that does not change its nature in the present and future too . It is always of the same nature|opposed|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change
+383|is only limited to telling the truth|opposed|also includes the quality of being sincere
+384|In the same way is the one that does not change its nature in the present and future too . It is always of the same nature|Based_on|is only limited to telling the truth
+385|reality|Based_on|truthfulness
+386|In the same way is the one that does not change its nature in the present and future too . It is always of the same nature|Based_on|also includes the quality of being sincere
+387|reality|Based_on|being honest
+388|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|Based_on|is only limited to telling the truth
+389|truth|Based_on|truthfulness
+390|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|Based_on|also includes the quality of being sincere
+391|truth|Based_on|being honest
+392|is the quality of a statement being true or accurate|defines|Truth
+393|An argument is when its conclusion follows logically from the premises|defines|valid
+394|a argument is valid and has true premises|defines|sound
+395|an argument is invalid and/or has at least one false premises|defines|unsound
+396|is the quality of a statement being true or accurate|opposed|An argument is when its conclusion follows logically from the premises
+397|a argument is valid and has true premises|opposed|an argument is invalid and/or has at least one false premises
+398|is the quality of a statement being true or accurate|Moment_of|a argument is valid and has true premises
+399|Truth|Moment_of|sound
+400|is the quality of a statement being true or accurate|Moment_of|an argument is invalid and/or has at least one false premises
+401|Truth|Moment_of|unsound
+402|An argument is when its conclusion follows logically from the premises|Moment_of|a argument is valid and has true premises
+403|valid|Moment_of|sound
+404|An argument is when its conclusion follows logically from the premises|Moment_of|an argument is invalid and/or has at least one false premises
+405|valid|Moment_of|unsound
+406|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|defines|premise
+407|A in an argument is the main point the arguer is trying to prove|defines|conclusion
+408|is a property of premises and conclusions|defines|truth
+409|is a property of arguments|defines|validity
+410|is the quality of a statement being true or accurate|defines|Truth
+411|An argument is when its conclusion follows logically from the premises|defines|valid
+412|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|defines|premise
+413|A in an argument is the main point the arguer is trying to prove|defines|conclusion
+414|the is determined by various factors such as common sense , personal experience , investigation , etc .|defines|truth of a premise or a conclusion
+415|when the conclusion follows logically from the premises|defines|an argument is valid
+416|the proceeds from specific premises to a general conclusion|defines|inductive reasoning
+417|proceeds from general premises to a specific conclusion|defines|deductive reasoning
+418|a always has true premises and true conclusions|defines|sound argument
+419|an may have both false and true premises and conclusions|defines|unsound argument
+420|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|opposed|A in an argument is the main point the arguer is trying to prove
+421|is a property of premises and conclusions|opposed|is a property of arguments
+422|is a property of arguments|opposed|is the quality of a statement being true or accurate
+423|is the quality of a statement being true or accurate|opposed|An argument is when its conclusion follows logically from the premises
+424|An argument is when its conclusion follows logically from the premises|opposed|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise
+425|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|opposed|A in an argument is the main point the arguer is trying to prove
+426|A in an argument is the main point the arguer is trying to prove|opposed|the is determined by various factors such as common sense , personal experience , investigation , etc .
+427|the is determined by various factors such as common sense , personal experience , investigation , etc .|opposed|when the conclusion follows logically from the premises
+428|when the conclusion follows logically from the premises|opposed|the proceeds from specific premises to a general conclusion
+429|the proceeds from specific premises to a general conclusion|opposed|proceeds from general premises to a specific conclusion
+430|proceeds from general premises to a specific conclusion|opposed|a always has true premises and true conclusions
+431|a always has true premises and true conclusions|opposed|an may have both false and true premises and conclusions
+432|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|is a property of premises and conclusions
+433|premise|Moment_of|truth
+434|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|is a property of arguments
+435|premise|Moment_of|validity
+436|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|is the quality of a statement being true or accurate
+437|premise|Moment_of|Truth
+438|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|An argument is when its conclusion follows logically from the premises
+439|premise|Moment_of|valid
+440|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise
+441|premise|Moment_of|premise
+442|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|A in an argument is the main point the arguer is trying to prove
+443|premise|Moment_of|conclusion
+444|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|the is determined by various factors such as common sense , personal experience , investigation , etc .
+445|premise|Moment_of|truth of a premise or a conclusion
+446|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|when the conclusion follows logically from the premises
+447|premise|Moment_of|an argument is valid
+448|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|the proceeds from specific premises to a general conclusion
+449|premise|Moment_of|inductive reasoning
+450|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|proceeds from general premises to a specific conclusion
+451|premise|Moment_of|deductive reasoning
+452|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|a always has true premises and true conclusions
+453|premise|Moment_of|sound argument
+454|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|Moment_of|an may have both false and true premises and conclusions
+455|premise|Moment_of|unsound argument
+456|A in an argument is the main point the arguer is trying to prove|Moment_of|is a property of premises and conclusions
+457|conclusion|Moment_of|truth
+458|A in an argument is the main point the arguer is trying to prove|Moment_of|is a property of arguments
+459|conclusion|Moment_of|validity
+460|A in an argument is the main point the arguer is trying to prove|Moment_of|is the quality of a statement being true or accurate
+461|conclusion|Moment_of|Truth
+462|A in an argument is the main point the arguer is trying to prove|Moment_of|An argument is when its conclusion follows logically from the premises
+463|conclusion|Moment_of|valid
+464|A in an argument is the main point the arguer is trying to prove|Moment_of|A is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise
+465|conclusion|Moment_of|premise
+466|A in an argument is the main point the arguer is trying to prove|Moment_of|A in an argument is the main point the arguer is trying to prove
+467|conclusion|Moment_of|conclusion
+468|A in an argument is the main point the arguer is trying to prove|Moment_of|the is determined by various factors such as common sense , personal experience , investigation , etc .
+469|conclusion|Moment_of|truth of a premise or a conclusion
+470|A in an argument is the main point the arguer is trying to prove|Moment_of|when the conclusion follows logically from the premises
+471|conclusion|Moment_of|an argument is valid
+472|A in an argument is the main point the arguer is trying to prove|Moment_of|the proceeds from specific premises to a general conclusion
+473|conclusion|Moment_of|inductive reasoning
+474|A in an argument is the main point the arguer is trying to prove|Moment_of|proceeds from general premises to a specific conclusion
+475|conclusion|Moment_of|deductive reasoning
+476|A in an argument is the main point the arguer is trying to prove|Moment_of|a always has true premises and true conclusions
+477|conclusion|Moment_of|sound argument
+478|A in an argument is the main point the arguer is trying to prove|Moment_of|an may have both false and true premises and conclusions
+479|conclusion|Moment_of|unsound argument
+480|refers to anything that is owned by a person or an entity|defines|property
+481|refer to land and buildings on it|defines|premises
+482|is a property of premises and conclusions|defines|truth
+483|is a property of arguments|defines|validity
+484|the proceeds from specific premises to a general conclusion|defines|inductive reasoning
+485|proceeds from general premises to a specific conclusion|defines|deductive reasoning
+486|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|defines|Property
+487|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|defines|premises
+488|A is an argument that is valid and has true premises|defines|sound argument
+489|an is an argument that is invalid or has at least one false premises|defines|unsound argument
+490|refers to anything that is owned by a person or an entity|opposed|refer to land and buildings on it
+491|is a property of premises and conclusions|opposed|is a property of arguments
+492|is a property of arguments|opposed|the proceeds from specific premises to a general conclusion
+493|the proceeds from specific premises to a general conclusion|opposed|proceeds from general premises to a specific conclusion
+494|proceeds from general premises to a specific conclusion|opposed|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+495|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|opposed|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+496|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|opposed|A is an argument that is valid and has true premises
+497|A is an argument that is valid and has true premises|opposed|an is an argument that is invalid or has at least one false premises
+498|refers to anything that is owned by a person or an entity|Moment_of|is a property of premises and conclusions
+499|property|Moment_of|truth
+500|refers to anything that is owned by a person or an entity|Moment_of|is a property of arguments
+501|property|Moment_of|validity
+502|refers to anything that is owned by a person or an entity|Moment_of|the proceeds from specific premises to a general conclusion
+503|property|Moment_of|inductive reasoning
+504|refers to anything that is owned by a person or an entity|Moment_of|proceeds from general premises to a specific conclusion
+505|property|Moment_of|deductive reasoning
+506|refers to anything that is owned by a person or an entity|Moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+507|property|Moment_of|Property
+508|refers to anything that is owned by a person or an entity|Moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+509|property|Moment_of|premises
+510|refers to anything that is owned by a person or an entity|Moment_of|A is an argument that is valid and has true premises
+511|property|Moment_of|sound argument
+512|refers to anything that is owned by a person or an entity|Moment_of|an is an argument that is invalid or has at least one false premises
+513|property|Moment_of|unsound argument
+514|refer to land and buildings on it|Moment_of|is a property of premises and conclusions
+515|premises|Moment_of|truth
+516|refer to land and buildings on it|Moment_of|is a property of arguments
+517|premises|Moment_of|validity
+518|refer to land and buildings on it|Moment_of|the proceeds from specific premises to a general conclusion
+519|premises|Moment_of|inductive reasoning
+520|refer to land and buildings on it|Moment_of|proceeds from general premises to a specific conclusion
+521|premises|Moment_of|deductive reasoning
+522|refer to land and buildings on it|Moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+523|premises|Moment_of|Property
+524|refer to land and buildings on it|Moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+525|premises|Moment_of|premises
+526|refer to land and buildings on it|Moment_of|A is an argument that is valid and has true premises
+527|premises|Moment_of|sound argument
+528|refer to land and buildings on it|Moment_of|an is an argument that is invalid or has at least one false premises
+529|premises|Moment_of|unsound argument
+530|can be either tangible , intangible , movable or immovable|defines|Property
+531|, which generally refers to a building with the land surrounding it , is tangible and immovable property|defines|Premises
+532|is a property of premises and conclusions|defines|truth
+533|is a property of arguments|defines|validity
+534|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|defines|Property
+535|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|defines|premises
+536|can be either tangible , intangible , movable or immovable|opposed|, which generally refers to a building with the land surrounding it , is tangible and immovable property
+537|is a property of premises and conclusions|opposed|is a property of arguments
+538|is a property of arguments|opposed|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+539|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|opposed|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+540|can be either tangible , intangible , movable or immovable|Moment_of|is a property of premises and conclusions
+541|Property|Moment_of|truth
+542|can be either tangible , intangible , movable or immovable|Moment_of|is a property of arguments
+543|Property|Moment_of|validity
+544|can be either tangible , intangible , movable or immovable|Moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+545|Property|Moment_of|Property
+546|can be either tangible , intangible , movable or immovable|Moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+547|Property|Moment_of|premises
+548|, which generally refers to a building with the land surrounding it , is tangible and immovable property|Moment_of|is a property of premises and conclusions
+549|Premises|Moment_of|truth
+550|, which generally refers to a building with the land surrounding it , is tangible and immovable property|Moment_of|is a property of arguments
+551|Premises|Moment_of|validity
+552|, which generally refers to a building with the land surrounding it , is tangible and immovable property|Moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+553|Premises|Moment_of|Property
+554|, which generally refers to a building with the land surrounding it , is tangible and immovable property|Moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+555|Premises|Moment_of|premises
+556|refers to anything that is owned by a person or an entity|defines|Property
+557|refer to land and buildings and other structures on it|defines|premises
+558|is a property of premises and conclusions|defines|truth
+559|is a property of arguments|defines|validity
+560|the proceeds from specific premises to a general conclusion|defines|inductive reasoning
+561|proceeds from general premises to a specific conclusion|defines|deductive reasoning
+562|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|defines|Property
+563|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|defines|premises
+564|a argument is valid and has true premises|defines|sound
+565|an argument is invalid and/or has at least one false premises|defines|unsound
+566|A is an argument that is valid and has true premises|defines|sound argument
+567|an is an argument that is invalid or has at least one false premises|defines|unsound argument
+568|a always has true premises and true conclusions|defines|sound argument
+569|an may have both false and true premises and conclusions|defines|unsound argument
+570|refers to anything that is owned by a person or an entity|opposed|refer to land and buildings and other structures on it
+571|is a property of premises and conclusions|opposed|is a property of arguments
+572|is a property of arguments|opposed|the proceeds from specific premises to a general conclusion
+573|the proceeds from specific premises to a general conclusion|opposed|proceeds from general premises to a specific conclusion
+574|proceeds from general premises to a specific conclusion|opposed|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+575|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|opposed|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+576|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|opposed|a argument is valid and has true premises
+577|a argument is valid and has true premises|opposed|an argument is invalid and/or has at least one false premises
+578|an argument is invalid and/or has at least one false premises|opposed|A is an argument that is valid and has true premises
+579|A is an argument that is valid and has true premises|opposed|an is an argument that is invalid or has at least one false premises
+580|an is an argument that is invalid or has at least one false premises|opposed|a always has true premises and true conclusions
+581|a always has true premises and true conclusions|opposed|an may have both false and true premises and conclusions
+582|refers to anything that is owned by a person or an entity|Moment_of|is a property of premises and conclusions
+583|Property|Moment_of|truth
+584|refers to anything that is owned by a person or an entity|Moment_of|is a property of arguments
+585|Property|Moment_of|validity
+586|refers to anything that is owned by a person or an entity|Moment_of|the proceeds from specific premises to a general conclusion
+587|Property|Moment_of|inductive reasoning
+588|refers to anything that is owned by a person or an entity|Moment_of|proceeds from general premises to a specific conclusion
+589|Property|Moment_of|deductive reasoning
+590|refers to anything that is owned by a person or an entity|Moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+591|Property|Moment_of|Property
+592|refers to anything that is owned by a person or an entity|Moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+593|Property|Moment_of|premises
+594|refers to anything that is owned by a person or an entity|Moment_of|a argument is valid and has true premises
+595|Property|Moment_of|sound
+596|refers to anything that is owned by a person or an entity|Moment_of|an argument is invalid and/or has at least one false premises
+597|Property|Moment_of|unsound
+598|refers to anything that is owned by a person or an entity|Moment_of|A is an argument that is valid and has true premises
+599|Property|Moment_of|sound argument
+600|refers to anything that is owned by a person or an entity|Moment_of|an is an argument that is invalid or has at least one false premises
+601|Property|Moment_of|unsound argument
+602|refers to anything that is owned by a person or an entity|Moment_of|a always has true premises and true conclusions
+603|Property|Moment_of|sound argument
+604|refers to anything that is owned by a person or an entity|Moment_of|an may have both false and true premises and conclusions
+605|Property|Moment_of|unsound argument
+606|refer to land and buildings and other structures on it|Moment_of|is a property of premises and conclusions
+607|premises|Moment_of|truth
+608|refer to land and buildings and other structures on it|Moment_of|is a property of arguments
+609|premises|Moment_of|validity
+610|refer to land and buildings and other structures on it|Moment_of|the proceeds from specific premises to a general conclusion
+611|premises|Moment_of|inductive reasoning
+612|refer to land and buildings and other structures on it|Moment_of|proceeds from general premises to a specific conclusion
+613|premises|Moment_of|deductive reasoning
+614|refer to land and buildings and other structures on it|Moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+615|premises|Moment_of|Property
+616|refer to land and buildings and other structures on it|Moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+617|premises|Moment_of|premises
+618|refer to land and buildings and other structures on it|Moment_of|a argument is valid and has true premises
+619|premises|Moment_of|sound
+620|refer to land and buildings and other structures on it|Moment_of|an argument is invalid and/or has at least one false premises
+621|premises|Moment_of|unsound
+622|refer to land and buildings and other structures on it|Moment_of|A is an argument that is valid and has true premises
+623|premises|Moment_of|sound argument
+624|refer to land and buildings and other structures on it|Moment_of|an is an argument that is invalid or has at least one false premises
+625|premises|Moment_of|unsound argument
+626|refer to land and buildings and other structures on it|Moment_of|a always has true premises and true conclusions
+627|premises|Moment_of|sound argument
+628|refer to land and buildings and other structures on it|Moment_of|an may have both false and true premises and conclusions
+629|premises|Moment_of|unsound argument
+630|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|defines|Property
+631|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|defines|premises
+632|is a property of premises and conclusions|defines|truth
+633|is a property of arguments|defines|validity
+634|the proceeds from specific premises to a general conclusion|defines|inductive reasoning
+635|proceeds from general premises to a specific conclusion|defines|deductive reasoning
+636|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|defines|Property
+637|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|defines|premises
+638|a argument is valid and has true premises|defines|sound
+639|an argument is invalid and/or has at least one false premises|defines|unsound
+640|A is an argument that is valid and has true premises|defines|sound argument
+641|an is an argument that is invalid or has at least one false premises|defines|unsound argument
+642|a always has true premises and true conclusions|defines|sound argument
+643|an may have both false and true premises and conclusions|defines|unsound argument
+644|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|opposed|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+645|is a property of premises and conclusions|opposed|is a property of arguments
+646|is a property of arguments|opposed|the proceeds from specific premises to a general conclusion
+647|the proceeds from specific premises to a general conclusion|opposed|proceeds from general premises to a specific conclusion
+648|proceeds from general premises to a specific conclusion|opposed|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+649|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|opposed|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+650|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|opposed|a argument is valid and has true premises
+651|a argument is valid and has true premises|opposed|an argument is invalid and/or has at least one false premises
+652|an argument is invalid and/or has at least one false premises|opposed|A is an argument that is valid and has true premises
+653|A is an argument that is valid and has true premises|opposed|an is an argument that is invalid or has at least one false premises
+654|an is an argument that is invalid or has at least one false premises|opposed|a always has true premises and true conclusions
+655|a always has true premises and true conclusions|opposed|an may have both false and true premises and conclusions
+656|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|is a property of premises and conclusions
+657|Property|Moment_of|truth
+658|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|is a property of arguments
+659|Property|Moment_of|validity
+660|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|the proceeds from specific premises to a general conclusion
+661|Property|Moment_of|inductive reasoning
+662|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|proceeds from general premises to a specific conclusion
+663|Property|Moment_of|deductive reasoning
+664|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+665|Property|Moment_of|Property
+666|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+667|Property|Moment_of|premises
+668|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|a argument is valid and has true premises
+669|Property|Moment_of|sound
+670|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|an argument is invalid and/or has at least one false premises
+671|Property|Moment_of|unsound
+672|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|A is an argument that is valid and has true premises
+673|Property|Moment_of|sound argument
+674|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|an is an argument that is invalid or has at least one false premises
+675|Property|Moment_of|unsound argument
+676|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|a always has true premises and true conclusions
+677|Property|Moment_of|sound argument
+678|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|Moment_of|an may have both false and true premises and conclusions
+679|Property|Moment_of|unsound argument
+680|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|is a property of premises and conclusions
+681|premises|Moment_of|truth
+682|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|is a property of arguments
+683|premises|Moment_of|validity
+684|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|the proceeds from specific premises to a general conclusion
+685|premises|Moment_of|inductive reasoning
+686|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|proceeds from general premises to a specific conclusion
+687|premises|Moment_of|deductive reasoning
+688|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+689|premises|Moment_of|Property
+690|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+691|premises|Moment_of|premises
+692|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|a argument is valid and has true premises
+693|premises|Moment_of|sound
+694|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|an argument is invalid and/or has at least one false premises
+695|premises|Moment_of|unsound
+696|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|A is an argument that is valid and has true premises
+697|premises|Moment_of|sound argument
+698|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|an is an argument that is invalid or has at least one false premises
+699|premises|Moment_of|unsound argument
+700|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|a always has true premises and true conclusions
+701|premises|Moment_of|sound argument
+702|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|Moment_of|an may have both false and true premises and conclusions
+703|premises|Moment_of|unsound argument
+704|is the systematic study of the form of arguments|defines|logic
+705|is the application of logic to understand and judge something|defines|reason
+706|: A reason simply refers to a cause or explanation|defines|Reason
+707|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+708|is the systematic study of the form of arguments|opposed|is the application of logic to understand and judge something
+709|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+710|is the systematic study of the form of arguments|Moment_of|: A reason simply refers to a cause or explanation
+711|logic|Moment_of|Reason
+712|is the systematic study of the form of arguments|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+713|logic|Moment_of|Excuse
+714|is the application of logic to understand and judge something|Moment_of|: A reason simply refers to a cause or explanation
+715|reason|Moment_of|Reason
+716|is the application of logic to understand and judge something|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+717|reason|Moment_of|Excuse
+718|is a noun|defines|Logic
+719|is a noun and a verb|defines|Reason
+720|: A reason simply refers to a cause or explanation|defines|Reason
+721|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+722|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|defines|Reason
+723|has nothing to do with judgment , conception , reasoning and intuition for that matter|defines|cause
+724|is a noun|opposed|is a noun and a verb
+725|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+726|: An excuse is a type of reason that specifically justifies or defends a fault|opposed|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+727|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|opposed|has nothing to do with judgment , conception , reasoning and intuition for that matter
+728|is a noun|Moment_of|: A reason simply refers to a cause or explanation
+729|Logic|Moment_of|Reason
+730|is a noun|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+731|Logic|Moment_of|Excuse
+732|is a noun|Moment_of|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+733|Logic|Moment_of|Reason
+734|is a noun|Moment_of|has nothing to do with judgment , conception , reasoning and intuition for that matter
+735|Logic|Moment_of|cause
+736|is a noun and a verb|Moment_of|: A reason simply refers to a cause or explanation
+737|Reason|Moment_of|Reason
+738|is a noun and a verb|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+739|Reason|Moment_of|Excuse
+740|is a noun and a verb|Moment_of|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+741|Reason|Moment_of|Reason
+742|is a noun and a verb|Moment_of|has nothing to do with judgment , conception , reasoning and intuition for that matter
+743|Reason|Moment_of|cause
+744|A simply refers to a cause or explanation . It explains why someone did something or why something happened|defines|reason
+745|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|defines|excuse
+746|: A reason simply refers to a cause or explanation|defines|Reason
+747|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+748|: A reason merely explains something|defines|Reason
+749|: An excuse justifies the fault|defines|Excuse
+750|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|defines|Reason
+751|has nothing to do with judgment , conception , reasoning and intuition for that matter|defines|cause
+752|A simply refers to a cause or explanation . It explains why someone did something or why something happened|opposed|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+753|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+754|: An excuse is a type of reason that specifically justifies or defends a fault|opposed|: A reason merely explains something
+755|: A reason merely explains something|opposed|: An excuse justifies the fault
+756|: An excuse justifies the fault|opposed|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+757|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|opposed|has nothing to do with judgment , conception , reasoning and intuition for that matter
+758|A simply refers to a cause or explanation . It explains why someone did something or why something happened|Moment_of|: A reason simply refers to a cause or explanation
+759|reason|Moment_of|Reason
+760|A simply refers to a cause or explanation . It explains why someone did something or why something happened|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+761|reason|Moment_of|Excuse
+762|A simply refers to a cause or explanation . It explains why someone did something or why something happened|Moment_of|: A reason merely explains something
+763|reason|Moment_of|Reason
+764|A simply refers to a cause or explanation . It explains why someone did something or why something happened|Moment_of|: An excuse justifies the fault
+765|reason|Moment_of|Excuse
+766|A simply refers to a cause or explanation . It explains why someone did something or why something happened|Moment_of|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+767|reason|Moment_of|Reason
+768|A simply refers to a cause or explanation . It explains why someone did something or why something happened|Moment_of|has nothing to do with judgment , conception , reasoning and intuition for that matter
+769|reason|Moment_of|cause
+770|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|Moment_of|: A reason simply refers to a cause or explanation
+771|excuse|Moment_of|Reason
+772|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+773|excuse|Moment_of|Excuse
+774|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|Moment_of|: A reason merely explains something
+775|excuse|Moment_of|Reason
+776|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|Moment_of|: An excuse justifies the fault
+777|excuse|Moment_of|Excuse
+778|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|Moment_of|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+779|excuse|Moment_of|Reason
+780|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|Moment_of|has nothing to do with judgment , conception , reasoning and intuition for that matter
+781|excuse|Moment_of|cause
+782|: A reason simply refers to a cause or explanation|defines|Reason
+783|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+784|: A reason simply refers to a cause or explanation|defines|Reason
+785|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+786|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+787|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+788|: A reason simply refers to a cause or explanation|Moment_of|: A reason simply refers to a cause or explanation
+789|Reason|Moment_of|Reason
+790|: A reason simply refers to a cause or explanation|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+791|Reason|Moment_of|Excuse
+792|: An excuse is a type of reason that specifically justifies or defends a fault|Moment_of|: A reason simply refers to a cause or explanation
+793|Excuse|Moment_of|Reason
+794|: An excuse is a type of reason that specifically justifies or defends a fault|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+795|Excuse|Moment_of|Excuse
+796|: A reason merely explains something|defines|Reason
+797|: An excuse justifies the fault|defines|Excuse
+798|: A reason simply refers to a cause or explanation|defines|Reason
+799|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+800|: A reason merely explains something|defines|Reason
+801|: An excuse justifies the fault|defines|Excuse
+802|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|defines|Reason
+803|has nothing to do with judgment , conception , reasoning and intuition for that matter|defines|cause
+804|: A reason merely explains something|opposed|: An excuse justifies the fault
+805|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+806|: An excuse is a type of reason that specifically justifies or defends a fault|opposed|: A reason merely explains something
+807|: A reason merely explains something|opposed|: An excuse justifies the fault
+808|: An excuse justifies the fault|opposed|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+809|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|opposed|has nothing to do with judgment , conception , reasoning and intuition for that matter
+810|: A reason merely explains something|Moment_of|: A reason simply refers to a cause or explanation
+811|Reason|Moment_of|Reason
+812|: A reason merely explains something|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+813|Reason|Moment_of|Excuse
+814|: A reason merely explains something|Moment_of|: A reason merely explains something
+815|Reason|Moment_of|Reason
+816|: A reason merely explains something|Moment_of|: An excuse justifies the fault
+817|Reason|Moment_of|Excuse
+818|: A reason merely explains something|Moment_of|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+819|Reason|Moment_of|Reason
+820|: A reason merely explains something|Moment_of|has nothing to do with judgment , conception , reasoning and intuition for that matter
+821|Reason|Moment_of|cause
+822|: An excuse justifies the fault|Moment_of|: A reason simply refers to a cause or explanation
+823|Excuse|Moment_of|Reason
+824|: An excuse justifies the fault|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+825|Excuse|Moment_of|Excuse
+826|: An excuse justifies the fault|Moment_of|: A reason merely explains something
+827|Excuse|Moment_of|Reason
+828|: An excuse justifies the fault|Moment_of|: An excuse justifies the fault
+829|Excuse|Moment_of|Excuse
+830|: An excuse justifies the fault|Moment_of|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+831|Excuse|Moment_of|Reason
+832|: An excuse justifies the fault|Moment_of|has nothing to do with judgment , conception , reasoning and intuition for that matter
+833|Excuse|Moment_of|cause
+834|: The main function is not to justify , but to explain|defines|Reason
+835|: The main function is to justify or defend a fault|defines|Excuse
+836|: A reason simply refers to a cause or explanation|defines|Reason
+837|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+838|: A reason merely explains something|defines|Reason
+839|: An excuse justifies the fault|defines|Excuse
+840|: The main function is not to justify , but to explain|opposed|: The main function is to justify or defend a fault
+841|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+842|: An excuse is a type of reason that specifically justifies or defends a fault|opposed|: A reason merely explains something
+843|: A reason merely explains something|opposed|: An excuse justifies the fault
+844|: The main function is not to justify , but to explain|Moment_of|: A reason simply refers to a cause or explanation
+845|Reason|Moment_of|Reason
+846|: The main function is not to justify , but to explain|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+847|Reason|Moment_of|Excuse
+848|: The main function is not to justify , but to explain|Moment_of|: A reason merely explains something
+849|Reason|Moment_of|Reason
+850|: The main function is not to justify , but to explain|Moment_of|: An excuse justifies the fault
+851|Reason|Moment_of|Excuse
+852|: The main function is to justify or defend a fault|Moment_of|: A reason simply refers to a cause or explanation
+853|Excuse|Moment_of|Reason
+854|: The main function is to justify or defend a fault|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+855|Excuse|Moment_of|Excuse
+856|: The main function is to justify or defend a fault|Moment_of|: A reason merely explains something
+857|Excuse|Moment_of|Reason
+858|: The main function is to justify or defend a fault|Moment_of|: An excuse justifies the fault
+859|Excuse|Moment_of|Excuse
+860|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|defines|cause
+861|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|defines|reason
+862|A simply refers to a cause or explanation . It explains why someone did something or why something happened|defines|reason
+863|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|defines|excuse
+864|: A reason simply refers to a cause or explanation|defines|Reason
+865|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+866|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|opposed|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+867|A simply refers to a cause or explanation . It explains why someone did something or why something happened|opposed|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+868|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|opposed|: A reason simply refers to a cause or explanation
+869|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+870|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|Moment_of|A simply refers to a cause or explanation . It explains why someone did something or why something happened
+871|cause|Moment_of|reason
+872|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|Moment_of|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+873|cause|Moment_of|excuse
+874|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|Moment_of|: A reason simply refers to a cause or explanation
+875|cause|Moment_of|Reason
+876|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+877|cause|Moment_of|Excuse
+878|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|Moment_of|A simply refers to a cause or explanation . It explains why someone did something or why something happened
+879|reason|Moment_of|reason
+880|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|Moment_of|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+881|reason|Moment_of|excuse
+882|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|Moment_of|: A reason simply refers to a cause or explanation
+883|reason|Moment_of|Reason
+884|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+885|reason|Moment_of|Excuse
+886|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|defines|Reason
+887|has nothing to do with judgment , conception , reasoning and intuition for that matter|defines|cause
+888|A simply refers to a cause or explanation . It explains why someone did something or why something happened|defines|reason
+889|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|defines|excuse
+890|: A reason simply refers to a cause or explanation|defines|Reason
+891|: An excuse is a type of reason that specifically justifies or defends a fault|defines|Excuse
+892|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|defines|cause
+893|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|defines|reason
+894|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|defines|Reason
+895|has nothing to do with judgment , conception , reasoning and intuition for that matter|defines|cause
+896|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|opposed|has nothing to do with judgment , conception , reasoning and intuition for that matter
+897|A simply refers to a cause or explanation . It explains why someone did something or why something happened|opposed|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+898|An , on the other hand , is also a type of reason that specifically justifies or defends a fault|opposed|: A reason simply refers to a cause or explanation
+899|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+900|: An excuse is a type of reason that specifically justifies or defends a fault|opposed|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+901|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|opposed|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+902|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|opposed|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+903|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|opposed|has nothing to do with judgment , conception , reasoning and intuition for that matter
+904|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|Moment_of|A simply refers to a cause or explanation . It explains why someone did something or why something happened
+905|Reason|Moment_of|reason
+906|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|Moment_of|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+907|Reason|Moment_of|excuse
+908|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|Moment_of|: A reason simply refers to a cause or explanation
+909|Reason|Moment_of|Reason
+910|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+911|Reason|Moment_of|Excuse
+912|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|Moment_of|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+913|Reason|Moment_of|cause
+914|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|Moment_of|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+915|Reason|Moment_of|reason
+916|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|Moment_of|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+917|Reason|Moment_of|Reason
+918|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|Moment_of|has nothing to do with judgment , conception , reasoning and intuition for that matter
+919|Reason|Moment_of|cause
+920|has nothing to do with judgment , conception , reasoning and intuition for that matter|Moment_of|A simply refers to a cause or explanation . It explains why someone did something or why something happened
+921|cause|Moment_of|reason
+922|has nothing to do with judgment , conception , reasoning and intuition for that matter|Moment_of|An , on the other hand , is also a type of reason that specifically justifies or defends a fault
+923|cause|Moment_of|excuse
+924|has nothing to do with judgment , conception , reasoning and intuition for that matter|Moment_of|: A reason simply refers to a cause or explanation
+925|cause|Moment_of|Reason
+926|has nothing to do with judgment , conception , reasoning and intuition for that matter|Moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+927|cause|Moment_of|Excuse
+928|has nothing to do with judgment , conception , reasoning and intuition for that matter|Moment_of|A is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+929|cause|Moment_of|cause
+930|has nothing to do with judgment , conception , reasoning and intuition for that matter|Moment_of|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+931|cause|Moment_of|reason
+932|has nothing to do with judgment , conception , reasoning and intuition for that matter|Moment_of|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+933|cause|Moment_of|Reason
+934|has nothing to do with judgment , conception , reasoning and intuition for that matter|Moment_of|has nothing to do with judgment , conception , reasoning and intuition for that matter
+935|cause|Moment_of|cause
+936|is the opinion or the method by which one approaches a given situation|defines|Attitude
+937|on the other hand makes one to do a particular thing even if the world is watching|defines|Character
+938|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|defines|Virtues
+939|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like|defines|Vices
+940|is the opinion or the method by which one approaches a given situation|opposed|on the other hand makes one to do a particular thing even if the world is watching
+941|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|opposed|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+942|is the opinion or the method by which one approaches a given situation|Moment_of|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+943|Attitude|Moment_of|Virtues
+944|is the opinion or the method by which one approaches a given situation|Moment_of|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+945|Attitude|Moment_of|Vices
+946|on the other hand makes one to do a particular thing even if the world is watching|Moment_of|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+947|Character|Moment_of|Virtues
+948|on the other hand makes one to do a particular thing even if the world is watching|Moment_of|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+949|Character|Moment_of|Vices
+950|impresses us for it is felt externally|defines|Character
+951|are not felt simply because they are well within an individual|defines|Attitudes
+952|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|defines|Virtues
+953|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like|defines|Vices
+954|impresses us for it is felt externally|opposed|are not felt simply because they are well within an individual
+955|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|opposed|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+956|impresses us for it is felt externally|Moment_of|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+957|Character|Moment_of|Virtues
+958|impresses us for it is felt externally|Moment_of|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+959|Character|Moment_of|Vices
+960|are not felt simply because they are well within an individual|Moment_of|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+961|Attitudes|Moment_of|Virtues
+962|are not felt simply because they are well within an individual|Moment_of|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+963|Attitudes|Moment_of|Vices
+964|It takes a long time for us to the in others|defines|attitude
+965|we can sense the of others in a short period of time|defines|character
+966|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|defines|Virtues
+967|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like|defines|Vices
+968|It takes a long time for us to the in others|opposed|we can sense the of others in a short period of time
+969|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|opposed|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+970|It takes a long time for us to the in others|Moment_of|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+971|attitude|Moment_of|Virtues
+972|It takes a long time for us to the in others|Moment_of|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+973|attitude|Moment_of|Vices
+974|we can sense the of others in a short period of time|Moment_of|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+975|character|Moment_of|Virtues
+976|we can sense the of others in a short period of time|Moment_of|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+977|character|Moment_of|Vices
+978|can not change in a short period of time|defines|character
+979|can change in a short period of time|defines|attitude
+980|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|defines|Virtues
+981|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like|defines|Vices
+982|can not change in a short period of time|opposed|can change in a short period of time
+983|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|opposed|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+984|can not change in a short period of time|Moment_of|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+985|character|Moment_of|Virtues
+986|can not change in a short period of time|Moment_of|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+987|character|Moment_of|Vices
+988|can change in a short period of time|Moment_of|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+989|attitude|Moment_of|Virtues
+990|can change in a short period of time|Moment_of|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+991|attitude|Moment_of|Vices
+992|is always based on reality|defines|truth
+993|can be sometimes based on falsehood|defines|knowledge
+994|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|defines|Positivism
+995|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )|defines|empiricism
+996|In , knowledge can be verified through scientific methods and mathematical / logical proof ,|defines|positivism
+997|in , the experience is the origin of knowledge|defines|empiricism
+998|is always based on reality|opposed|can be sometimes based on falsehood
+999|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|opposed|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )
+1000|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )|opposed|In , knowledge can be verified through scientific methods and mathematical / logical proof ,
+1001|In , knowledge can be verified through scientific methods and mathematical / logical proof ,|opposed|in , the experience is the origin of knowledge
+1002|is always based on reality|Moment_of|is a philosophical theory that states that the only authentic knowledge is scientific knowledge
+1003|truth|Moment_of|Positivism
+1004|is always based on reality|Moment_of|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )
+1005|truth|Moment_of|empiricism
+1006|is always based on reality|Moment_of|In , knowledge can be verified through scientific methods and mathematical / logical proof ,
+1007|truth|Moment_of|positivism
+1008|is always based on reality|Moment_of|in , the experience is the origin of knowledge
+1009|truth|Moment_of|empiricism
+1010|can be sometimes based on falsehood|Moment_of|is a philosophical theory that states that the only authentic knowledge is scientific knowledge
+1011|knowledge|Moment_of|Positivism
+1012|can be sometimes based on falsehood|Moment_of|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )
+1013|knowledge|Moment_of|empiricism
+1014|can be sometimes based on falsehood|Moment_of|In , knowledge can be verified through scientific methods and mathematical / logical proof ,
+1015|knowledge|Moment_of|positivism
+1016|can be sometimes based on falsehood|Moment_of|in , the experience is the origin of knowledge
+1017|knowledge|Moment_of|empiricism
+1018|What is found out in is what is given ultimately as truth|defines|reality
+1019|Hence needs the observance of reality|defines|truth
+1020|What is found out in is what is given ultimately as truth|defines|reality
+1021|Hence needs the observance of reality|defines|truth
+1022|What is found out in is what is given ultimately as truth|opposed|Hence needs the observance of reality
+1023|What is found out in is what is given ultimately as truth|opposed|Hence needs the observance of reality
+1024|What is found out in is what is given ultimately as truth|Moment_of|What is found out in is what is given ultimately as truth
+1025|reality|Moment_of|reality
+1026|What is found out in is what is given ultimately as truth|Moment_of|Hence needs the observance of reality
+1027|reality|Moment_of|truth
+1028|Hence needs the observance of reality|Moment_of|What is found out in is what is given ultimately as truth
+1029|truth|Moment_of|reality
+1030|Hence needs the observance of reality|Moment_of|Hence needs the observance of reality
+1031|truth|Moment_of|truth
+1032|is the systematic study of the form of arguments|defines|logic
+1033|is the application of logic to understand and judge something|defines|reason
+1034|is the systematic study of the form of arguments|defines|logic
+1035|is the application of logic to understand and judge something|defines|reason
+1036|is the systematic study of the form of arguments|opposed|is the application of logic to understand and judge something
+1037|is the systematic study of the form of arguments|opposed|is the application of logic to understand and judge something
+1038|is the systematic study of the form of arguments|Analog_to|is the systematic study of the form of arguments
+1039|logic|Analog_to|logic
+1040|is the systematic study of the form of arguments|Analog_to|is the application of logic to understand and judge something
+1041|logic|Analog_to|reason
+1042|is the application of logic to understand and judge something|Analog_to|is the systematic study of the form of arguments
+1043|reason|Analog_to|logic
+1044|is the application of logic to understand and judge something|Analog_to|is the application of logic to understand and judge something
+1045|reason|Analog_to|reason
+1046|: A reason merely explains something|defines|Reason
+1047|: An excuse justifies the fault|defines|Excuse
+1048|: A reason merely explains something|defines|Reason
+1049|: An excuse justifies the fault|defines|Excuse
+1050|A is self existent or something that has been existent right from the past|defines|discovery
+1051|is the one that has been found out with the help of the discovered facts|defines|invention
+1052|: A reason merely explains something|opposed|: An excuse justifies the fault
+1053|: A reason merely explains something|opposed|: An excuse justifies the fault
+1054|: An excuse justifies the fault|opposed|A is self existent or something that has been existent right from the past
+1055|A is self existent or something that has been existent right from the past|opposed|is the one that has been found out with the help of the discovered facts
+1056|: A reason merely explains something|Analog_to|: A reason merely explains something
+1057|Reason|Analog_to|Reason
+1058|: A reason merely explains something|Analog_to|: An excuse justifies the fault
+1059|Reason|Analog_to|Excuse
+1060|: A reason merely explains something|Analog_to|A is self existent or something that has been existent right from the past
+1061|Reason|Analog_to|discovery
+1062|: A reason merely explains something|Analog_to|is the one that has been found out with the help of the discovered facts
+1063|Reason|Analog_to|invention
+1064|: An excuse justifies the fault|Analog_to|: A reason merely explains something
+1065|Excuse|Analog_to|Reason
+1066|: An excuse justifies the fault|Analog_to|: An excuse justifies the fault
+1067|Excuse|Analog_to|Excuse
+1068|: An excuse justifies the fault|Analog_to|A is self existent or something that has been existent right from the past
+1069|Excuse|Analog_to|discovery
+1070|: An excuse justifies the fault|Analog_to|is the one that has been found out with the help of the discovered facts
+1071|Excuse|Analog_to|invention
+1072|: The main function is not to justify , but to explain|defines|Reason
+1073|: The main function is to justify or defend a fault|defines|Excuse
+1074|: The main function is not to justify , but to explain|defines|Reason
+1075|: The main function is to justify or defend a fault|defines|Excuse
+1076|: The main function is not to justify , but to explain|opposed|: The main function is to justify or defend a fault
+1077|: The main function is not to justify , but to explain|opposed|: The main function is to justify or defend a fault
+1078|: The main function is not to justify , but to explain|Analog_to|: The main function is not to justify , but to explain
+1079|Reason|Analog_to|Reason
+1080|: The main function is not to justify , but to explain|Analog_to|: The main function is to justify or defend a fault
+1081|Reason|Analog_to|Excuse
+1082|: The main function is to justify or defend a fault|Analog_to|: The main function is not to justify , but to explain
+1083|Excuse|Analog_to|Reason
+1084|: The main function is to justify or defend a fault|Analog_to|: The main function is to justify or defend a fault
+1085|Excuse|Analog_to|Excuse
+1086|can very well be seen by others as it is external|defines|behavior
+1087|is shelled within the mind of the individual and hence can not be seen by others immediately|defines|attitude
+1088|can be either tangible , intangible , movable or immovable|defines|Property
+1089|, which generally refers to a building with the land surrounding it , is tangible and immovable property|defines|Premises
+1090|can very well be seen by others as it is external|opposed|is shelled within the mind of the individual and hence can not be seen by others immediately
+1091|can be either tangible , intangible , movable or immovable|opposed|, which generally refers to a building with the land surrounding it , is tangible and immovable property
+1092|can very well be seen by others as it is external|Analog_to|can be either tangible , intangible , movable or immovable
+1093|behavior|Analog_to|Property
+1094|can very well be seen by others as it is external|Analog_to|, which generally refers to a building with the land surrounding it , is tangible and immovable property
+1095|behavior|Analog_to|Premises
+1096|is shelled within the mind of the individual and hence can not be seen by others immediately|Analog_to|can be either tangible , intangible , movable or immovable
+1097|attitude|Analog_to|Property
+1098|is shelled within the mind of the individual and hence can not be seen by others immediately|Analog_to|, which generally refers to a building with the land surrounding it , is tangible and immovable property
+1099|attitude|Analog_to|Premises
+1100|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|defines|Positivism
+1101|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )|defines|empiricism
+1102|A is an argument that is valid and has true premises|defines|sound argument
+1103|an is an argument that is invalid or has at least one false premises|defines|unsound argument
+1104|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|opposed|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )
+1105|A is an argument that is valid and has true premises|opposed|an is an argument that is invalid or has at least one false premises
+1106|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|Analog_to|A is an argument that is valid and has true premises
+1107|Positivism|Analog_to|sound argument
+1108|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|Analog_to|an is an argument that is invalid or has at least one false premises
+1109|Positivism|Analog_to|unsound argument
+1110|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )|Analog_to|A is an argument that is valid and has true premises
+1111|empiricism|Analog_to|sound argument
+1112|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )|Analog_to|an is an argument that is invalid or has at least one false premises
+1113|empiricism|Analog_to|unsound argument
+1114|is the transportation of water and minerals from the root to aerial parts of the plant through the xylem|defines|sap
+1115|is the transportation of foods / carbohydrates from leaves to other parts of the plant through the phloem|defines|translocation
+1116|is the systematic study of the form of arguments|defines|logic
+1117|is the application of logic to understand and judge something|defines|reason
+1118|is the transportation of water and minerals from the root to aerial parts of the plant through the xylem|opposed|is the transportation of foods / carbohydrates from leaves to other parts of the plant through the phloem
+1119|is the systematic study of the form of arguments|opposed|is the application of logic to understand and judge something
+1120|is the transportation of water and minerals from the root to aerial parts of the plant through the xylem|Analog_to|is the systematic study of the form of arguments
+1121|sap|Analog_to|logic
+1122|is the transportation of water and minerals from the root to aerial parts of the plant through the xylem|Analog_to|is the application of logic to understand and judge something
+1123|sap|Analog_to|reason
+1124|is the transportation of foods / carbohydrates from leaves to other parts of the plant through the phloem|Analog_to|is the systematic study of the form of arguments
+1125|translocation|Analog_to|logic
+1126|is the transportation of foods / carbohydrates from leaves to other parts of the plant through the phloem|Analog_to|is the application of logic to understand and judge something
+1127|translocation|Analog_to|reason
+1128|is always based on reality|defines|truth
+1129|can be sometimes based on falsehood|defines|knowledge
+1130|is a noun|defines|Logic
+1131|is a noun and a verb|defines|Reason
+1132|is always based on reality|opposed|can be sometimes based on falsehood
+1133|is a noun|opposed|is a noun and a verb
+1134|is always based on reality|Analog_to|is a noun
+1135|truth|Analog_to|Logic
+1136|is always based on reality|Analog_to|is a noun and a verb
+1137|truth|Analog_to|Reason
+1138|can be sometimes based on falsehood|Analog_to|is a noun
+1139|knowledge|Analog_to|Logic
+1140|can be sometimes based on falsehood|Analog_to|is a noun and a verb
+1141|knowledge|Analog_to|Reason
+1142|is an existent fact|defines|Reality
+1143|is an established fact|defines|truth
+1144|: A reason merely explains something|defines|Reason
+1145|: An excuse justifies the fault|defines|Excuse
+1146|is an existent fact|opposed|is an established fact
+1147|: A reason merely explains something|opposed|: An excuse justifies the fault
+1148|is an existent fact|Analog_to|: A reason merely explains something
+1149|Reality|Analog_to|Reason
+1150|is an existent fact|Analog_to|: An excuse justifies the fault
+1151|Reality|Analog_to|Excuse
+1152|is an established fact|Analog_to|: A reason merely explains something
+1153|truth|Analog_to|Reason
+1154|is an established fact|Analog_to|: An excuse justifies the fault
+1155|truth|Analog_to|Excuse
+1156|What is found out in is what is given ultimately as truth|defines|reality
+1157|Hence needs the observance of reality|defines|truth
+1158|tells us about the real nature of a particular thing , experience , existence and the like|defines|Reality
+1159|tells about the fact that has been invented or experimented|defines|Truth
+1160|What is found out in is what is given ultimately as truth|opposed|Hence needs the observance of reality
+1161|tells us about the real nature of a particular thing , experience , existence and the like|opposed|tells about the fact that has been invented or experimented
+1162|What is found out in is what is given ultimately as truth|Analog_to|tells us about the real nature of a particular thing , experience , existence and the like
+1163|reality|Analog_to|Reality
+1164|What is found out in is what is given ultimately as truth|Analog_to|tells about the fact that has been invented or experimented
+1165|reality|Analog_to|Truth
+1166|Hence needs the observance of reality|Analog_to|tells us about the real nature of a particular thing , experience , existence and the like
+1167|truth|Analog_to|Reality
+1168|Hence needs the observance of reality|Analog_to|tells about the fact that has been invented or experimented
+1169|truth|Analog_to|Truth
