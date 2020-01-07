@@ -36,18 +36,18 @@ logging.info("number of spans to compare %d" % len(span_sets))
 to_analyse = {
     'Based_on': [combinator.subordinated,
                   {
-                     'layout': '1:1',
+                     'layout': 'n:m',
                      'n': 10
                   }],
     'Moment_of':   [combinator.moments,
                   {
-                    'layout': 'n',
+                    'layout': 'n:m',
                     'n': 50
                     }
                    ],
     'Analog_to': [combinator.analogs,
                   {
-                      'layout': 'n',
+                      'layout': 'n:m',
                       'n': 10
                   }
                   ]

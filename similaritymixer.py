@@ -309,8 +309,8 @@ class SimilarityMixer:
             list-tuple-list-dict, that this module returns
         :param layout:
             default=None behavior like n=1
-            '1:1' means for each one element of the one expression is eactly one chosen from the other
-            'hdbscan':
+            '1:1' means for each one element of the one expression is exactly one chosen from the other
+            'n:m':
                  for samples of n elements are fitting m other elements chosen from the other expression, works only
                  for samples with >10 elements
         :param n:
@@ -424,7 +424,7 @@ class SimilarityMixer:
         # apply weights: matrix dot vector = summed up vector with one value for each vector
         weighted_res = trans_cube.dot(self.weights)  # Matrix times weight
 
-        if layout=='hdbscan':
+        if layout=='n:m':
             matrix = self.scaler.fit_transform(weighted_res.reshape(-1, 1))
             matrix = matrix.reshape(len(exs1), len(exs2))
             np.fill_diagonal(matrix, 1)
