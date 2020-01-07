@@ -1,16 +1,15 @@
 from math import log
-
 import scipy
 from xnym_embeddings.xnym_embeddings import wordnet_lookup_xnyms, get_hyponyms, get_antonyms, get_cohypernyms, \
     get_cohyponyms, get_hypernyms, get_synonyms, search_sequence_numpy
-
-import basic_nlp_annotator
 import similaritymixer
 import wmd_simmilarity_mixer
 import neo4j_handler
 from helpers.color_logger import *
 import pprint
 import wmd_simmilarity_mixer
+from timeit import default_timer as timer
+
 #analog = similaritymixer.SimilarityMixer(  #
 
 #subordinated = similaritymixer.SimilarityMixer(  #
@@ -29,14 +28,7 @@ analogs = similaritymixer.SimilarityMixer(
                             [(1,similaritymixer.SimilarityMixer.multi_kind_tup_sim(wmd_simmilarity_mixer.wmd_similarity, n=4), -3,3),
                             (-20,similaritymixer.SimilarityMixer.multi_kind_tup_sim(similaritymixer.SimilarityMixer.same_expression_sim), 0, 1)])
 
-
-def combine (span_sets, sim, params):
-    span_sets = span_sets
-    nlp_annotator = basic_nlp_annotator.BasicAnnotator(layout='structured_span')
-    nlp_annotated_annotations = [[[nlp_annotator.annotate(span) for span in spans] for spans in span_set] for span_set in span_sets]
-    nlp_annotated_annotations = [sp for sp in nlp_annotated_annotations if sp and len(sp)>1]
-
-    from timeit import default_timer as timer
+def combine (nlp_annotated_annotations, sim, params):
     time_test_annotations = nlp_annotated_annotations[:20]
     start = timer()
     _ = sim.choose(data=(time_test_annotations, time_test_annotations), **params)

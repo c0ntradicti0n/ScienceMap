@@ -30,15 +30,19 @@ def ranges(nums):
 class BIO_Annotation:
     def read_annotation_from_corpus(path):
         with open(path, 'r+') as f:
-            lines = f.readlines()
-        samples = [list(group) for k, group in itertools.groupby(lines[2:], lambda x: x.strip() == "") if not k]
+            text = f.read()
+            ##lines = f.readlines()
+        samples = text.split("\n\n") #"[list(group) for k, group in itertools.groupby(lines[2:], lambda x: x.strip() == "") if not k]
 
         for sample in samples:
-            if sample == ['-DOCSTART- -X- -X- O\n']:
+            if not sample.strip() or sample == '-DOCSTART- -X- -X- O':
                 continue
             try:
-                tok, pos, pos_tag, tag = list(zip(*[l.strip().split('  ') for l in sample]))
+                sample = sample.replace('-DOCSTART- -X- -X- O','')
+                tok, pos, pos_tag, tag = list(zip(*[l.strip().split('  ') for l in sample.strip().split("\n") if l.strip() ]))
             except Exception as e:
+                print (path)
+                print (sample)
                 raise
             yield list(zip(tok, tag))
 

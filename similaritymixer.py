@@ -419,7 +419,7 @@ class SimilarityMixer:
             print(tabulate(table, headers=['', 'max', 'min']))
 
         if output == True:
-            print(trans_cube)
+            x=1#print(trans_cube)
 
         # apply weights: matrix dot vector = summed up vector with one value for each vector
         weighted_res = trans_cube.dot(self.weights)  # Matrix times weight
@@ -460,7 +460,7 @@ class SimilarityMixer:
             grouped_indices = npi.group_by(cluster_labels).split(list(range(0,len(exs1))))
             if (sorted(cluster_labels)[0]==-1):
                 grouped_indices = grouped_indices [1:]
-            print (grouped_indices)
+            #print (grouped_indices)
             left_value = [g[0] for g in grouped_indices]
             right_values = [g[1:] for g in grouped_indices]
             return self.expressions_list(left_value, right_values, exs1, exs2)
@@ -1365,7 +1365,7 @@ r.multi_cross2tup_sim(SimilarityMixer.same_expression_sim, n=2)(*data2)
                 for ant in ants:
                     if match(ant, lemmas2)   and not match(ant, lemmas1) and not match(nym, lemmas2):
                         beam[ex1['id']][ex2['id']].reason = [(nym, ant)]
-                        print  ((nym, ant))
+                        #print  ((nym, ant))
                         return 1, beam
         except AttributeError:
             pass # empty antonym dict
