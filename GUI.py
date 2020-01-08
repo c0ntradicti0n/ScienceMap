@@ -90,7 +90,7 @@ def opposed_relations(annotation_sets, connect_on='CONTRAST'):
         yield (a['text'], 'opposed', b['text'])
 
 for rel_kind, related in all_annotations.items():
-    related = [rs for rs in related if all(len(r[0])==2 for r in rs)]
+    #related = [rs for rs in related if all(len(r[0])==2 for r in rs)]
     # TODO broadcast to more than two!
     for a,b in related:
         a_defs = list(defining_relations(a))
@@ -103,7 +103,13 @@ for rel_kind, related in all_annotations.items():
         relations.extend(a_ops)
         relations.extend(b_ops)
 
-        tups = [(a[i], rel_kind, b[i]) for a in a_defs for b in b_defs for i in [0,2]]
+        tups = []
+        tups += [(a[i], rel_kind, b[i]) for a in a_defs for b in b_defs for i in [0,2]]
+        tups += [(a[i], rel_kind, b[i]) for a in a_ops for b in b_ops for i in [0, 2]]
+        tups += [(a[i], rel_kind, b[i]) for a in a_ops for b in b_defs for i in [0, 2]]
+        tups += [(a[i], rel_kind, b[i]) for a in a_defs for b in b_ops for i in [0, 2]]
+
+
         relations.extend(tups)
 
 logging.info('writing output file')
