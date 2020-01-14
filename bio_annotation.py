@@ -41,8 +41,8 @@ class BIO_Annotation:
                 sample = sample.replace('-DOCSTART- -X- -X- O','')
                 tok, pos, pos_tag, tag = list(zip(*[l.strip().split('  ') for l in sample.strip().split("\n") if l.strip() ]))
             except Exception as e:
-                print (path)
-                print (sample)
+                print (f"conll3 reading error in {path} on sample\n '{str(sample)}'")
+
                 raise
             yield list(zip(tok, tag))
 
