@@ -139,7 +139,7 @@ def cartesian_product_itertools(arrays):
 
 
 class SimilarityMixer:
-    def __init__ (self, similarity_composition, n=1, verbose=False):
+    def __init__ (self, similarity_composition, n=1, verbose=False, _alpha_beta=None):
         r''' Setup, which functions are taken to compute a similarity matrix to choose from some natural language expressions, that are already analysed in the manner of :mod:`~predicatrix.Predication`.
 
             Under the hood a similarity matrix is computed by a cartesian product of the two samples of expressions as
@@ -217,6 +217,7 @@ class SimilarityMixer:
         self.thresholds_min = np.array(thresholds_min)
         self.thresholds_max = np.array(thresholds_max)
         self.verbose        = verbose
+        self.alpha_beta     = _alpha_beta
 
         try:
             mins = [f.min for f in funs]
@@ -285,6 +286,7 @@ class SimilarityMixer:
                out=None,
                layout=None,
                n=None,
+               n_percent=None,
                graph_coro=None,
                type=None,
                output=False,
@@ -320,10 +322,14 @@ class SimilarityMixer:
             list of tuples of lists of ints or indexed expressions, according to the chosen 'out' parameter
 
         '''
+
         my_args = locals().copy()
 
         exs1 = None
         exs2 = None
+        if n_percent:
+            n = int(len(data[0]) * n_percent)
+
         self.beam = Dict()
         if n:
             self.n = n
@@ -334,7 +340,7 @@ class SimilarityMixer:
             results = []
             for combo in itertools.combinations(data, 2):
                 my_args['data'] = combo
-                my_args['n'] = 100
+                my_args['n'] = n
                 results.append(SimilarityMixer.choose(**my_args))
             return results
 

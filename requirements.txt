@@ -1,7 +1,4 @@
-py2neo
-neo4j-connector
 Cython
-kivy
 wmd
 spacy
 scispacy

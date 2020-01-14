@@ -3,4 +3,6 @@
 *.json
 ./venv
 # Project exclude paths
-/venv/
+/venv
+*.hdf5
+./models

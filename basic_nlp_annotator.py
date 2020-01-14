@@ -1,8 +1,22 @@
 from types import FunctionType
-from suffix_trees import STree
 
+from allennlp.modules import Elmo
+from suffix_trees import STree
+import numpy as np
 import spacy
+import wmd
 nlp = spacy.load("en_core_sci_md")
+nlp.add_pipe(wmd.WMD.SpacySimilarityHook(nlp), last=True)
+options_file = "models/elmo_2x1024_128_2048cnn_1xhighway_options.json"
+weight_file = "models/elmo_2x1024_128_2048cnn_1xhighway_weights.hdf5"
+
+# Compute two different representation for each token.
+# Each representation is a linear weighted combination for the
+# 3 layers in ELMo (i.e., charcnn, the outputs of the two BiLSTM))
+from allennlp.commands.elmo import ElmoEmbedder
+elmo = ElmoEmbedder(options_file=options_file, weight_file=weight_file)
+
+
 
 import pipetools
 
@@ -19,6 +33,7 @@ class BasicAnnotator:
                     pipetools.pipe |
                     self.make_text |
                     self.make_spacy_doc |
+                    self.make_elmo_doc |
                     self.make_lemma_text |
                     self.make_id |
                     self.make_tree
@@ -32,6 +47,7 @@ class BasicAnnotator:
                     pipetools.pipe |
                     self.make_from_structured_span |
                     self.make_spacy_doc |
+                    self.make_elmo_doc |
                     self.make_lemma_text |
                     self.make_id  |
                     self.make_tree
@@ -103,6 +119,16 @@ class BasicAnnotator:
            raise AttributeError('expression requires \'text\' key; start of pipeline must be make_text')
        doc = nlp (ex['text'])
        ex['doc'] = doc
+       return ex
+
+    def make_elmo_doc (self, ex):
+       """
+
+       :return: dict with keys defined for the annotation pipeline
+       """
+       if not 'text' in ex:
+           raise AttributeError('expression requires \'text\' key; start of pipeline must be make_text')
+       ex['elmo'] = np.array(elmo.embed_sentence([t.text for t in ex['doc']]), dtype=np.float32)
        return ex
 
 

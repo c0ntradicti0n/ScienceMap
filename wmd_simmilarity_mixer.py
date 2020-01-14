@@ -1,9 +1,10 @@
+import logging
+
+import libwmdrelax
 from Bio import pairwise2
-from addict import addict
-
 from similaritymixer import SimilarityMixer
-
-
+from pyemd import emd_samples
+import numpy as np
 
 def left_right_encircle(match_density):
     start, stop = 0, 1
@@ -244,10 +245,10 @@ def sub_suffixtree(exs1, exs2):
     match = text2.find(text1)
     l = len (text1)
 
-    if text1 in text2:
-        print ('contained')
+    #if text1 in text2:
+    #    print ('contained')
 
-    print (text1, text2)
+    #3print (text1, text2)
 
     if match != -1:
         if match+l >=  len(text2):
@@ -260,29 +261,45 @@ def sub_suffixtree(exs1, exs2):
     }}
     return sim, beam
 
+from  sklearn import preprocessing
+min_max_scaler = preprocessing.MinMaxScaler()
+
+
 @SimilarityMixer.standard_range(-1, 1)
 def wmd_similarity(span1, span2):
+    """ little bit simplified earth mover distance for elmo embeddings.
+    Emd solvers take weights and distance matrix.
+    With Elmo we don't have 1 vector per werd, so lets treat every word as individual, because they have different vectors.
+    The weights vectors so have length of whole vocab, so here both together, and a equal weight for all tokens 1/ len doc.
+    The distance matrix
+
+    libwmdrelax.emd(weights1, weights2, distance_matrix)
+
+    :param span1:
+    :param span2:
+    :return:
+    """
     beam = {span1['id']:{
         span2['id']:'x'
     }}
-
-    if not span1 or not span1:
-        return 0, beam
     doc1 = span1['doc']
     doc2 = span2['doc']
-    #if not doc1.vector_norm or not doc2.vector_norm:
-    #    logging.error('Spacy tries to compute similarity on non vectorized word in %s' % str((span1, span2)))
-    #    return 0, beam
+    l = len(doc1) + len(doc2)
+    w1 = np.zeros(l, dtype=np.float32)
+    w1[range(len(doc1))] = 1/len(doc1)
+    w2 = np.zeros(l, dtype=np.float32)
+    w2[range(len(doc1), len(doc1) + len(doc2))] = 1/len(doc2)
+    elmo1 = span1['elmo'][2]
+    elmo2 = span2['elmo'][2]
+    evec =  np.vstack((elmo1, elmo2))
+    evec_sqr = (evec * evec).sum(axis=1)
+    dists = evec_sqr - 2 * evec.dot(evec.T) + evec_sqr[:, np.newaxis]
+    dists[dists < 0] = 0
+    dists = np.sqrt(dists)
 
-    if not doc1 or not doc2:
-        return 0, beam
     try:
-        sim = doc1.similarity(doc2)
-        beam = {span1['id']: {
-            span2['id']: sim
-        }}
-        return sim, beam
-    except ZeroDivisionError:
-        #logging.error('Fallback with fuzzy text comparison, because spacy has incorrectshell')
-        #span1.similarity(span2)
-        return SimilarityMixer.fuzzytext_sim(text1, text2)
+        #print (-libwmdrelax.emd(w1, w2, dists))
+        return -libwmdrelax.emd(w1, w2, dists), beam
+    except RuntimeError:
+        print (w1,w2)
+        return 0, beam
