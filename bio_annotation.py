@@ -35,7 +35,7 @@ class BIO_Annotation:
         samples = text.split("\n\n") #"[list(group) for k, group in itertools.groupby(lines[2:], lambda x: x.strip() == "") if not k]
 
         for sample in samples:
-            if not sample.strip() or sample == '-DOCSTART- -X- -X- O':
+            if not sample.replace("\n","").strip() or sample == '-DOCSTART- -X- -X- O':
                 continue
             try:
                 sample = sample.replace('-DOCSTART- -X- -X- O','')
