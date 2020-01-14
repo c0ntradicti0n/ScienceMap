@@ -1,16 +1,16 @@
 Cython
 wmd
+regex
 spacy
+scipy
 scispacy
 https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.0/en_core_sci_md-0.2.0.tar.gz
 pipetools
-regex
 more_itertools
 addict
 numpy
 numpy_indexed
 suffix_trees
-scipy
 cytoolz
 hdbscan
 pyprover
@@ -19,4 +19,3 @@ ray
 biopython
 tabulate
 fuzzywuzzy[speedup]
-git+https://github.com/c0ntradicti0n/Distinctiopus4.git
