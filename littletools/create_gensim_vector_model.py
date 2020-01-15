@@ -4,7 +4,7 @@ import gzip
 import gensim 
 import logging
 import spacy
-nlp = spacy.load('en_core_web_md')
+#nlp = spacy.load('en_core_web_md')
 import re
 import sys
 

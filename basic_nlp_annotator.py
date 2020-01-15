@@ -5,8 +5,8 @@ from suffix_trees import STree
 import numpy as np
 import spacy
 import wmd
-nlp = spacy.load("en_core_sci_md")
-nlp.add_pipe(wmd.WMD.SpacySimilarityHook(nlp), last=True)
+nlp = spacy.load("en_core_web_md")
+#nlp.add_pipe(wmd.WMD.SpacySimilarityHook(nlp), last=True)
 options_file = "models/elmo_2x1024_128_2048cnn_1xhighway_options.json"
 weight_file = "models/elmo_2x1024_128_2048cnn_1xhighway_weights.hdf5"
 
@@ -46,6 +46,7 @@ class BasicAnnotator:
             self.make =  (
                     pipetools.pipe |
                     self.make_from_structured_span |
+                    self.make_spacy_doc |
                     self.make_spacy_doc |
                     self.make_elmo_doc |
                     self.make_lemma_text |
