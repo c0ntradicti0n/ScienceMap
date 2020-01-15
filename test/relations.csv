@@ -1,385 +1,385 @@
 |n1|rel|n2
-0|is only limited to telling the truth|opposed|also includes the quality of being sincere
-1|can very well be seen by others as it is external|defines|behavior
-2|is only limited to telling the truth|defines|truthfulness
-3|a in an argument is the main point the arguer is trying to prove|moment_of|proceeds from general premises to a specific conclusion
-4|cause|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-5|the potter ’s wheel is the in the making of a pot|opposed|means good enough or something that is sufficient for a need or requirement
-6|the refers to the process of drawing specific conclusions from general statements / observations|defines|latter
-7|can be either tangible , intangible , movable or immovable|opposed|, which generally refers to a building with the land surrounding it , is tangible and immovable property
-8|property|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
-9|is used in situations where you mean to say sufficient|opposed|is the opinion or the method by which one approaches a given situation
-10|auguste Comte and Émile Durkheim are two prominent figures in|opposed|john Locke , George Berkeley , John Stuart Mill , and David Hume are prominent
-11|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|based_on|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
-12|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|defines|premises
-13|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like|opposed|can not change in a short period of time
-14|a in an argument is the main point the arguer is trying to prove|moment_of|a always has true premises and true conclusions
-15|is a noun|opposed|is a noun and a verb
-16|proceeds from general premises to a specific conclusion|defines|deductive reasoning
-17|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|based_on|excuse
-18|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|based_on|what is found out in is what is given ultimately as truth
-19|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|defines|excuse
-20|is the systematic study of the form of arguments|defines|logic
-21|is the transportation of foods / carbohydrates from leaves to other parts of the plant through the phloem|defines|translocation
-22|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|moment_of|the proceeds from specific premises to a general conclusion
-23|refer to land and buildings on it|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
-24|refer to land and buildings and other structures on it|moment_of|premises
-25|: An excuse justifies the fault|based_on|: An excuse justifies the fault
-26|is an established fact|based_on|hence needs the observance of reality
-27|in the same way is the one that does not change its nature in the present and future too . It is always of the same nature|defines|reality
-28|a argument is valid and has true premises|opposed|an argument is invalid and/or has at least one false premises
-29|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|defines|reason
-30|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|is a property of arguments
-31|is the transportation of foods / carbohydrates from leaves to other parts of the plant through the phloem|opposed|xylem transports water and minerals from the root to aerial parts of the plant , and we call this process
-32|cause|based_on|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
-33|: An excuse justifies the fault|based_on|reason
-34|an is an argument that is invalid or has at least one false premises|defines|unsound argument
-35|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
-36|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|moment_of|excuse
-37|the phloem runs next to xylem , and it transports food prepared by photosynthesis from leaves to other plant body parts . Thus , this process is called|opposed|is always based on reality
-38|a in an argument is the main point the arguer is trying to prove|moment_of|deductive reasoning
-39|: An excuse justifies the fault|based_on|: A reason merely explains something
-40|excuse|moment_of|excuse
-41|a is an argument that is valid and has true premises|opposed|an is an argument that is invalid or has at least one false premises
-42|impresses us for it is felt externally|defines|character
-43|refer to individuals|opposed|are not opposites
-44|refer to land and buildings on it|moment_of|property
-45|tells about the fact that has been invented or experimented|defines|truth
-46|hence needs the observance of reality|based_on|reality
-47|are not opposites|defines|general terms and specific terms
-48|can be either tangible , intangible , movable or immovable|moment_of|is a property of premises and conclusions
-49|means good enough or something that is sufficient for a need or requirement|defines|adequate
-50|reason|based_on|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
-51|can not change in a short period of time|opposed|can change in a short period of time
-52|reason|based_on|excuse
-53|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
-54|can not be challenged|defines|reality
-55|is the systematic study of the form of arguments|opposed|is the application of logic to understand and judge something
-56|is the one that has been found out with the help of the discovered facts|defines|invention
-57|a argument is not necessarily a sound argument|defines|valid
-58|reason|based_on|cause
-59|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|opposed|has nothing to do with judgment , conception , reasoning and intuition for that matter
-60|excuse|based_on|excuse
-61|we can sense the of others in a short period of time|opposed|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
-62|, which generally refers to a building with the land surrounding it , is tangible and immovable property|opposed|refers to anything that is owned by a person or an entity
-63|hence needs the observance of reality|defines|truth
-64|: The main function is to justify or defend a fault|based_on|: An excuse justifies the fault
-65|, on the other hand , is the truth and the actual existence of something|opposed|is an existent fact
-66|: The main function is to justify or defend a fault|based_on|: A reason merely explains something
-67|the is determined by various factors such as common sense , personal experience , investigation , etc .|opposed|when the conclusion follows logically from the premises
-68|the potter ’s wheel is the in the making of a pot|defines|instrumental cause
-69|: The main function is to justify or defend a fault|moment_of|: A reason simply refers to a cause or explanation
-70|refer to groups|opposed|refer to individuals
-71|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true|opposed|a argument is not necessarily a sound argument
-72|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|moment_of|: A reason simply refers to a cause or explanation
-73|is always based on reality|opposed|can be sometimes based on falsehood
-74|reason|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-75|can change in a short period of time|opposed|is internal
-76|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|opposed|a argument is valid and has true premises
-77|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|defines|reason
-78|can be sometimes based on falsehood|defines|knowledge
-79|as are|opposed|is only limited to telling the truth
-80|a is self existent or something that has been existent right from the past|opposed|is the one that has been found out with the help of the discovered facts
-81|xylem transports water and minerals from the root to aerial parts of the plant , and we call this process|defines|ascent of sap
-82|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|moment_of|: A reason simply refers to a cause or explanation
-83|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|moment_of|reason
-84|a in an argument is the main point the arguer is trying to prove|defines|conclusion
-85|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|moment_of|reason
-86|can not change in a short period of time|defines|character
-87|can be either tangible , intangible , movable or immovable|defines|property
-88|conclusion|moment_of|sound argument
-89|is a property of premises and conclusions|defines|truth
-90|refer to land and buildings on it|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
-91|conclusion|moment_of|inductive reasoning
-92|can not be challenged|opposed|can be challenged . Truth can be challenged because it is characterized by facts . Facts can always be challenged and disproved . It is important to note that proven facts are more in number though
-93|is liable to change according to the situation . It is after all a kind of surface emotion|defines|attitude
-94|excuse|based_on|: An excuse justifies the fault
-95|the , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect|defines|reality
-96|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|validity
-97|in the same way is the one that does not change its nature in the present and future too . It is always of the same nature|based_on|hence needs the observance of reality
-98|conclusion|moment_of|an may have both false and true premises and conclusions
-99|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|defines|positivism
-100|refers to anything that is owned by a person or an entity|opposed|refer to land and buildings on it
-101|is the way how a person understands something and different people may have different perceptions for the same thing|opposed|, on the other hand , is the truth and the actual existence of something
-102|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|based_on|reason
-103|a is an argument that is valid and has true premises|defines|sound argument
-104|premises|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
-105|conclusion|moment_of|unsound argument
-106|a in an argument is the main point the arguer is trying to prove|opposed|the is determined by various factors such as common sense , personal experience , investigation , etc .
-107|property|moment_of|truth
-108|is the application of logic to understand and judge something|defines|reason
-109|can very well be seen by others as it is external|opposed|is shelled within the mind of the individual and hence can not be seen by others immediately
-110|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true|defines|soundness
-111|has nothing to do with judgment , conception , reasoning and intuition for that matter|moment_of|excuse
-112|tells us about the real nature of a particular thing , experience , existence and the like|based_on|what is found out in is what is given ultimately as truth
-113|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
-114|is an existent fact|based_on|hence needs the observance of reality
-115|property|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
-116|the proceeds from specific premises to a general conclusion|defines|inductive reasoning
-117|is internal|opposed|is external in sense
-118|what is found out in is what is given ultimately as truth|based_on|hence needs the observance of reality
-119|when the conclusion follows logically from the premises|defines|an argument is valid
-120|is the application of logic to understand and judge something|opposed|is the systematic study of the form of arguments
-121|truth|based_on|truth
-122|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-123|is liable to change according to the situation . It is after all a kind of surface emotion|opposed|impresses us for it is felt externally
-124|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|moment_of|excuse
-125|an is an argument that is invalid or has at least one false premises|opposed|a always has true premises and true conclusions
-126|is internal|defines|attitude
-127|hence needs the observance of reality|based_on|hence needs the observance of reality
-128|are not opposites|opposed|as are
-129|is a noun|defines|logic
-130|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like|defines|vices
-131|also includes the quality of being sincere|opposed|is a philosophical theory that states that the only authentic knowledge is scientific knowledge
-132|is an established fact|based_on|truth
-133|: An excuse justifies the fault|defines|excuse
-134|auguste Comte and Émile Durkheim are two prominent figures in|defines|positivism
-135|an argument is invalid and/or has at least one false premises|defines|unsound
-136|an may have both false and true premises and conclusions|defines|unsound argument
-137|is the transportation of water and minerals from the root to aerial parts of the plant through the xylem|opposed|is the transportation of foods / carbohydrates from leaves to other parts of the plant through the phloem
-138|reason|based_on|reason
-139|on the other hand makes one to do a particular thing even if the world is watching|opposed|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change
-140|in the same way is the one that does not change its nature in the present and future too . It is always of the same nature|opposed|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change
-141|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|premises
-142|can be either tangible , intangible , movable or immovable|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
-143|as are|defines|abstract and concrete terms
-144|, on the other hand , is the truth and the actual existence of something|defines|realty
-145|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|truth
-146|is used when the choice is bigger|defines|what
-147|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|based_on|: An excuse justifies the fault
-148|is generally used in cases where there is a limited choice|opposed|is used when the choice is bigger
-149|has nothing to do with judgment , conception , reasoning and intuition for that matter|based_on|a simply refers to a cause or explanation . It explains why someone did something or why something happened
-150|people can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc|defines|expectations
-151|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|opposed|: A reason simply refers to a cause or explanation
-152|hence needs the observance of reality|based_on|what is found out in is what is given ultimately as truth
-153|reality|based_on|truth
-154|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|opposed|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )
-155|truth|based_on|reality
-156|is used in situations where you mean to say sufficient|defines|enough
-157|for example mud is the in the making of a pot|opposed|the potter ’s wheel is the in the making of a pot
-158|: The main function is to justify or defend a fault|defines|excuse
-159|has nothing to do with judgment , conception , reasoning and intuition for that matter|moment_of|reason
-160|refers to anything that is owned by a person or an entity|opposed|refer to land and buildings and other structures on it
-161|: An excuse justifies the fault|based_on|excuse
-162|what is found out in is what is given ultimately as truth|based_on|what is found out in is what is given ultimately as truth
-163|refers to anything that is owned by a person or an entity|defines|property
-164|is an existent fact|based_on|what is found out in is what is given ultimately as truth
-165|cause|based_on|excuse
-166|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change|opposed|is liable to change according to the situation . It is after all a kind of surface emotion
-167|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-168|a is self existent or something that has been existent right from the past|defines|discovery
-169|refer to land and buildings and other structures on it|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
-170|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|opposed|tells us about the real nature of a particular thing , experience , existence and the like
-171|proceeds from general premises to a specific conclusion|opposed|the refers to the process of deriving generalizations from specific observations
-172|: A reason merely explains something|based_on|: An excuse justifies the fault
-173|refer to land and buildings on it|moment_of|premises
-174|is an established fact|opposed|a is self existent or something that has been existent right from the past
-175|is shelled within the mind of the individual and hence can not be seen by others immediately|opposed|refer to ideas or concepts ; they have no physical referents
-176|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|a simply refers to a cause or explanation . It explains why someone did something or why something happened
-177|refer to groups|defines|general terms
-178|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|defines|premise
-179|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|opposed|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
-180|cause|moment_of|excuse
-181|: The main function is not to justify , but to explain|based_on|: A reason merely explains something
-182|has nothing to do with judgment , conception , reasoning and intuition for that matter|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
-183|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|moment_of|: A reason simply refers to a cause or explanation
-184|john Locke , George Berkeley , John Stuart Mill , and David Hume are prominent|opposed|is the transportation of water and minerals from the root to aerial parts of the plant through the xylem
-185|it takes a long time for us to the in others|defines|attitude
-186|can be sometimes based on falsehood|opposed|people can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc
-187|hence needs the observance of reality|opposed|can not be challenged
-188|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change|defines|character
-189|premise|moment_of|deductive reasoning
-190|has nothing to do with judgment , conception , reasoning and intuition for that matter|opposed|for example mud is the in the making of a pot
-191|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|moment_of|: A reason simply refers to a cause or explanation
-192|is the opinion or the method by which one approaches a given situation|opposed|on the other hand makes one to do a particular thing even if the world is watching
-193|: A reason simply refers to a cause or explanation|defines|reason
-194|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
-195|premises|moment_of|truth
-196|the refers to the process of deriving generalizations from specific observations|opposed|the refers to the process of drawing specific conclusions from general statements / observations
-197|: The main function is not to justify , but to explain|moment_of|: A reason simply refers to a cause or explanation
-198|is the way how a person understands something and different people may have different perceptions for the same thing|defines|perception
-199|is a property of premises and conclusions|opposed|is a property of arguments
-200|a always has true premises and true conclusions|defines|sound argument
-201|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-202|in , knowledge can be verified through scientific methods and mathematical / logical proof ,|opposed|in , the experience is the origin of knowledge
-203|are not felt simply because they are well within an individual|defines|attitudes
-204|tells about the fact that has been invented or experimented|opposed|what is found out in is what is given ultimately as truth
-205|it takes a long time for us to the in others|opposed|we can sense the of others in a short period of time
-206|is generally used in cases where there is a limited choice|defines|which
-207|premise|moment_of|inductive reasoning
-208|is the systematic study of the form of arguments|opposed|is the power of the mind to think , understand , and form judgments logically
-209|premise|moment_of|proceeds from general premises to a specific conclusion
-210|proceeds from general premises to a specific conclusion|opposed|a always has true premises and true conclusions
-211|premise|moment_of|a always has true premises and true conclusions
-212|has nothing to do with judgment , conception , reasoning and intuition for that matter|defines|cause
-213|a simply refers to a cause or explanation . It explains why someone did something or why something happened|opposed|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
-214|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|defines|cause
-215|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|opposed|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
-216|excuse|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-217|is the power of the mind to think , understand , and form judgments logically|defines|reason
-218|xylem transports water and minerals from the root to aerial parts of the plant , and we call this process|opposed|the phloem runs next to xylem , and it transports food prepared by photosynthesis from leaves to other plant body parts . Thus , this process is called
-219|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|cause
-220|premises|moment_of|validity
-221|in , knowledge can be verified through scientific methods and mathematical / logical proof ,|defines|positivism
-222|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
-223|property|moment_of|validity
-224|conclusion|moment_of|proceeds from general premises to a specific conclusion
-225|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
-226|is the one that has been found out with the help of the discovered facts|opposed|in the same way is the one that does not change its nature in the present and future too . It is always of the same nature
-227|a simply refers to a cause or explanation . It explains why someone did something or why something happened|based_on|: A reason merely explains something
-228|is the opinion or the method by which one approaches a given situation|defines|attitude
-229|: The main function is not to justify , but to explain|opposed|: The main function is to justify or defend a fault
-230|tells about the fact that has been invented or experimented|based_on|truth
-231|a in an argument is the main point the arguer is trying to prove|moment_of|sound argument
-232|the refers to the process of deriving generalizations from specific observations|defines|former
-233|is shelled within the mind of the individual and hence can not be seen by others immediately|defines|attitude
-234|refers to anything that is owned by a person or an entity|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
-235|: An excuse justifies the fault|opposed|: The main function is not to justify , but to explain
-236|truth|based_on|hence needs the observance of reality
-237|a in an argument is the main point the arguer is trying to prove|moment_of|inductive reasoning
-238|tells about the fact that has been invented or experimented|based_on|reality
-239|means good enough or something that is sufficient for a need or requirement|opposed|is used in situations where you mean to say sufficient
-240|: A reason merely explains something|opposed|: An excuse justifies the fault
-241|a simply refers to a cause or explanation . It explains why someone did something or why something happened|based_on|: An excuse justifies the fault
-242|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|reason
-243|on the other hand makes one to do a particular thing even if the world is watching|defines|character
-244|refer to ideas or concepts ; they have no physical referents|defines|abstract terms
-245|hence needs the observance of reality|based_on|truth
-246|an may have both false and true premises and conclusions|opposed|is generally used in cases where there is a limited choice
-247|refer to individuals|defines|specific terms
-248|reason|based_on|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
-249|reason|moment_of|excuse
-250|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
-251|when the conclusion follows logically from the premises|opposed|the proceeds from specific premises to a general conclusion
-252|premise|moment_of|sound argument
-253|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|opposed|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
-254|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|based_on|truth
-255|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|based_on|a simply refers to a cause or explanation . It explains why someone did something or why something happened
-256|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|opposed|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
-257|is an established fact|based_on|what is found out in is what is given ultimately as truth
-258|: The main function is not to justify , but to explain|defines|reason
-259|premises|moment_of|premises
-260|are not felt simply because they are well within an individual|opposed|it takes a long time for us to the in others
-261|refer to land and buildings on it|opposed|can be either tangible , intangible , movable or immovable
-262|refer to land and buildings and other structures on it|opposed|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
-263|has nothing to do with judgment , conception , reasoning and intuition for that matter|moment_of|: A reason simply refers to a cause or explanation
-264|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|based_on|a simply refers to a cause or explanation . It explains why someone did something or why something happened
-265|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|based_on|hence needs the observance of reality
-266|tells us about the real nature of a particular thing , experience , existence and the like|based_on|hence needs the observance of reality
-267|refer to land and buildings and other structures on it|defines|premises
-268|property|moment_of|premises
-269|is always based on reality|defines|truth
-270|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )|defines|empiricism
-271|a argument is not necessarily a sound argument|opposed|a is an argument that is valid and has true premises
-272|has nothing to do with judgment , conception , reasoning and intuition for that matter|based_on|excuse
-273|reason|based_on|: An excuse justifies the fault
-274|is a property of arguments|defines|validity
-275|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|based_on|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
-276|in the same way is the one that does not change its nature in the present and future too . It is always of the same nature|based_on|what is found out in is what is given ultimately as truth
-277|a simply refers to a cause or explanation . It explains why someone did something or why something happened|defines|reason
-278|is an existent fact|opposed|is an established fact
-279|: The main function is to justify or defend a fault|based_on|excuse
-280|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|property
-281|what is found out in is what is given ultimately as truth|opposed|hence needs the observance of reality
-282|cause|moment_of|reason
-283|the phloem runs next to xylem , and it transports food prepared by photosynthesis from leaves to other plant body parts . Thus , this process is called|defines|translocation
-284|is a property of arguments|opposed|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
-285|premises|moment_of|is a property of arguments
-286|what is found out in is what is given ultimately as truth|defines|reality
-287|is the quality of a statement being true or accurate|defines|truth
-288|we can sense the of others in a short period of time|defines|character
-289|also includes the quality of being sincere|defines|being honest
-290|property|moment_of|is a property of arguments
-291|cause|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
-292|has nothing to do with judgment , conception , reasoning and intuition for that matter|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-293|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )|opposed|in , knowledge can be verified through scientific methods and mathematical / logical proof ,
-294|refers to anything that is owned by a person or an entity|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
-295|a in an argument is the main point the arguer is trying to prove|moment_of|the proceeds from specific premises to a general conclusion
+0|: A reason merely explains something|based_on|: A reason merely explains something
+1|on the other hand makes one to do a particular thing even if the world is watching|defines|character
+2|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|is a property of premises and conclusions
+3|: An excuse justifies the fault|based_on|excuse
+4|: The main function is to justify or defend a fault|based_on|: A reason merely explains something
+5|xylem transports water and minerals from the root to aerial parts of the plant , and we call this process|opposed|the phloem runs next to xylem , and it transports food prepared by photosynthesis from leaves to other plant body parts . Thus , this process is called
+6|means good enough or something that is sufficient for a need or requirement|opposed|is used in situations where you mean to say sufficient
+7|refer to land and buildings and other structures on it|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+8|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|moment_of|: A reason simply refers to a cause or explanation
+9|is the systematic study of the form of arguments|opposed|is the application of logic to understand and judge something
+10|is the way how a person understands something and different people may have different perceptions for the same thing|defines|perception
+11|hence needs the observance of reality|defines|truth
+12|property|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+13|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|moment_of|: A reason simply refers to a cause or explanation
+14|are not felt simply because they are well within an individual|defines|attitudes
+15|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|opposed|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+16|: The main function is to justify or defend a fault|based_on|excuse
+17|is the systematic study of the form of arguments|opposed|is the power of the mind to think , understand , and form judgments logically
+18|is the quality of a statement being true or accurate|defines|truth
+19|xylem transports water and minerals from the root to aerial parts of the plant , and we call this process|defines|ascent of sap
+20|can be either tangible , intangible , movable or immovable|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+21|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|defines|excuse
+22|refer to objects or events that are available to the senses|defines|concrete terms
+23|john Locke , George Berkeley , John Stuart Mill , and David Hume are prominent|opposed|is the transportation of water and minerals from the root to aerial parts of the plant through the xylem
+24|refers to anything that is owned by a person or an entity|opposed|refer to land and buildings on it
+25|property|moment_of|premises
+26|a in an argument is the main point the arguer is trying to prove|moment_of|sound argument
+27|: An excuse justifies the fault|opposed|: The main function is not to justify , but to explain
+28|a simply refers to a cause or explanation . It explains why someone did something or why something happened|based_on|: A reason merely explains something
+29|has nothing to do with judgment , conception , reasoning and intuition for that matter|based_on|a simply refers to a cause or explanation . It explains why someone did something or why something happened
+30|is a noun|defines|logic
+31|is the application of logic to understand and judge something|defines|reason
+32|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|moment_of|a always has true premises and true conclusions
+33|a is an argument that is valid and has true premises|opposed|an is an argument that is invalid or has at least one false premises
+34|a is self existent or something that has been existent right from the past|opposed|is the one that has been found out with the help of the discovered facts
+35|: A reason merely explains something|based_on|: An excuse justifies the fault
+36|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+37|refer to ideas or concepts ; they have no physical referents|opposed|refer to objects or events that are available to the senses
+38|a argument is valid and has true premises|defines|sound
+39|is an existent fact|opposed|is an established fact
+40|truth|based_on|hence needs the observance of reality
+41|can very well be seen by others as it is external|opposed|is shelled within the mind of the individual and hence can not be seen by others immediately
+42|tells us about the real nature of a particular thing , experience , existence and the like|opposed|tells about the fact that has been invented or experimented
+43|refer to land and buildings on it|moment_of|premises
+44|, on the other hand , is the truth and the actual existence of something|defines|realty
+45|premises|moment_of|premises
+46|an argument is invalid and/or has at least one false premises|defines|unsound
+47|is used in situations where you mean to say sufficient|opposed|is the opinion or the method by which one approaches a given situation
+48|is an established fact|opposed|a is self existent or something that has been existent right from the past
+49|: An excuse justifies the fault|based_on|: A reason merely explains something
+50|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
+51|has nothing to do with judgment , conception , reasoning and intuition for that matter|moment_of|excuse
+52|a in an argument is the main point the arguer is trying to prove|moment_of|inductive reasoning
+53|a in an argument is the main point the arguer is trying to prove|defines|conclusion
+54|: A reason merely explains something|opposed|: An excuse justifies the fault
+55|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|opposed|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+56|: The main function is to justify or defend a fault|opposed|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+57|premise|moment_of|deductive reasoning
+58|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+59|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|moment_of|proceeds from general premises to a specific conclusion
+60|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|defines|premise
+61|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|reason
+62|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|defines|reason
+63|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+64|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )|defines|empiricism
+65|a in an argument is the main point the arguer is trying to prove|moment_of|a always has true premises and true conclusions
+66|is only limited to telling the truth|defines|truthfulness
+67|refer to groups|defines|general terms
+68|: A reason simply refers to a cause or explanation|defines|reason
+69|refers to anything that is owned by a person or an entity|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+70|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|moment_of|excuse
+71|as are|defines|abstract and concrete terms
+72|can be either tangible , intangible , movable or immovable|moment_of|is a property of premises and conclusions
+73|can change in a short period of time|defines|attitude
+74|property|moment_of|validity
+75|cause|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
+76|premise|moment_of|sound argument
+77|an argument is invalid and/or has at least one false premises|opposed|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true
+78|refers to anything that is owned by a person or an entity|defines|property
+79|is a noun|opposed|is a noun and a verb
+80|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like|defines|vices
+81|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|based_on|hence needs the observance of reality
+82|what is found out in is what is given ultimately as truth|based_on|what is found out in is what is given ultimately as truth
+83|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|opposed|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like
+84|can not be challenged|opposed|can be challenged . Truth can be challenged because it is characterized by facts . Facts can always be challenged and disproved . It is important to note that proven facts are more in number though
+85|are not opposites|defines|general terms and specific terms
+86|is the one that has been found out with the help of the discovered facts|opposed|in the same way is the one that does not change its nature in the present and future too . It is always of the same nature
+87|is the power of the mind to think , understand , and form judgments logically|opposed|is a noun
+88|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|based_on|truth
+89|a simply refers to a cause or explanation . It explains why someone did something or why something happened|based_on|: An excuse justifies the fault
+90|is an established fact|based_on|truth
+91|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|opposed|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too
+92|refers to anything that is owned by a person or an entity|opposed|refer to land and buildings and other structures on it
+93|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|based_on|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+94|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|defines|property
+95|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|moment_of|reason
+96|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|opposed|tells us about the real nature of a particular thing , experience , existence and the like
+97|the refers to the process of deriving generalizations from specific observations|defines|former
+98|reason|based_on|: An excuse justifies the fault
+99|is liable to change according to the situation . It is after all a kind of surface emotion|opposed|impresses us for it is felt externally
+100|refer to individuals|defines|specific terms
+101|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|opposed|: A reason simply refers to a cause or explanation
+102|: The main function is not to justify , but to explain|moment_of|: A reason simply refers to a cause or explanation
+103|: The main function is to justify or defend a fault|moment_of|reason
+104|: The main function is not to justify , but to explain|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+105|refer to land and buildings and other structures on it|defines|premises
+106|is the transportation of water and minerals from the root to aerial parts of the plant through the xylem|opposed|is the transportation of foods / carbohydrates from leaves to other parts of the plant through the phloem
+107|cause|based_on|reason
+108|people can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc|defines|expectations
+109|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|based_on|what is found out in is what is given ultimately as truth
+110|is used when the choice is bigger|defines|what
+111|the , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect|defines|reality
+112|has nothing to do with judgment , conception , reasoning and intuition for that matter|defines|cause
+113|: A reason merely explains something|defines|reason
+114|premise|moment_of|unsound argument
+115|that build up bad character include falsehood , avarice , lust , dishonesty , immodesty and the like|opposed|can not change in a short period of time
+116|an argument is when its conclusion follows logically from the premises|opposed|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise
+117|are not felt simply because they are well within an individual|opposed|it takes a long time for us to the in others
+118|the refers to the process of drawing specific conclusions from general statements / observations|opposed|refers to anything that is owned by a person or an entity
+119|in , knowledge can be verified through scientific methods and mathematical / logical proof ,|defines|positivism
+120|can be either tangible , intangible , movable or immovable|opposed|, which generally refers to a building with the land surrounding it , is tangible and immovable property
+121|is the one that has been found out with the help of the discovered facts|defines|invention
+122|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|property
+123|is only limited to telling the truth|opposed|also includes the quality of being sincere
+124|reason|based_on|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+125|tells us about the real nature of a particular thing , experience , existence and the like|based_on|what is found out in is what is given ultimately as truth
+126|premises|moment_of|is a property of arguments
+127|premises|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+128|is the quality of a statement being true or accurate|opposed|an argument is when its conclusion follows logically from the premises
+129|is used when the choice is bigger|opposed|is the systematic study of the form of arguments
+130|excuse|based_on|: An excuse justifies the fault
+131|reality|based_on|hence needs the observance of reality
+132|in , the experience is the origin of knowledge|opposed|auguste Comte and Émile Durkheim are two prominent figures in
+133|: The main function is to justify or defend a fault|defines|excuse
+134|can not be challenged|defines|reality
+135|john Locke , George Berkeley , John Stuart Mill , and David Hume are prominent|defines|empiricists
+136|: A reason simply refers to a cause or explanation|opposed|: An excuse is a type of reason that specifically justifies or defends a fault
+137|is a property of arguments|opposed|is the quality of a statement being true or accurate
+138|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|defines|reason
+139|is always based on reality|defines|truth
+140|can be sometimes based on falsehood|defines|knowledge
+141|a in an argument is the main point the arguer is trying to prove|moment_of|proceeds from general premises to a specific conclusion
+142|refer to land and buildings on it|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+143|conclusion|moment_of|inductive reasoning
+144|is shelled within the mind of the individual and hence can not be seen by others immediately|defines|attitude
+145|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|moment_of|reason
+146|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|moment_of|the proceeds from specific premises to a general conclusion
+147|is generally used in cases where there is a limited choice|opposed|is used when the choice is bigger
+148|can very well be seen by others as it is external|defines|behavior
+149|premise|moment_of|a always has true premises and true conclusions
+150|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|based_on|reason
+151|excuse|moment_of|reason
+152|proceeds from general premises to a specific conclusion|defines|deductive reasoning
+153|a simply refers to a cause or explanation . It explains why someone did something or why something happened|opposed|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
+154|refer to land and buildings and other structures on it|opposed|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+155|means good enough or something that is sufficient for a need or requirement|defines|adequate
+156|hence needs the observance of reality|based_on|hence needs the observance of reality
+157|, which generally refers to a building with the land surrounding it , is tangible and immovable property|opposed|refers to anything that is owned by a person or an entity
+158|in the same way is the one that does not change its nature in the present and future too . It is always of the same nature|opposed|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change
+159|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true|defines|soundness
+160|has nothing to do with judgment , conception , reasoning and intuition for that matter|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
+161|premise|moment_of|proceeds from general premises to a specific conclusion
+162|can be either tangible , intangible , movable or immovable|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+163|conclusion|moment_of|an may have both false and true premises and conclusions
+164|is a property of arguments|opposed|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+165|hence needs the observance of reality|based_on|truth
+166|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|based_on|: An excuse justifies the fault
+167|we can sense the of others in a short period of time|defines|character
+168|reason|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+169|what is found out in is what is given ultimately as truth|defines|reality
+170|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|opposed|a in an argument is the main point the arguer is trying to prove
+171|is liable to change according to the situation . It is after all a kind of surface emotion|defines|attitude
+172|has nothing to do with judgment , conception , reasoning and intuition for that matter|moment_of|reason
+173|cause|moment_of|reason
+174|hence needs the observance of reality|based_on|reality
+175|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|cause
+176|an may have both false and true premises and conclusions|defines|unsound argument
+177|impresses us for it is felt externally|defines|character
+178|conclusion|moment_of|deductive reasoning
+179|is the transportation of foods / carbohydrates from leaves to other parts of the plant through the phloem|opposed|xylem transports water and minerals from the root to aerial parts of the plant , and we call this process
+180|is the transportation of foods / carbohydrates from leaves to other parts of the plant through the phloem|defines|translocation
+181|is the application of logic to understand and judge something|opposed|is the systematic study of the form of arguments
+182|can be challenged . Truth can be challenged because it is characterized by facts . Facts can always be challenged and disproved . It is important to note that proven facts are more in number though|defines|truth
+183|: The main function is not to justify , but to explain|based_on|: A reason merely explains something
+184|it takes a long time for us to the in others|opposed|we can sense the of others in a short period of time
+185|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+186|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|premises
+187|proceeds from general premises to a specific conclusion|opposed|the refers to the process of deriving generalizations from specific observations
+188|the refers to the process of deriving generalizations from specific observations|opposed|the refers to the process of drawing specific conclusions from general statements / observations
+189|cause|based_on|excuse
+190|is a property of premises and conclusions|opposed|is a property of arguments
+191|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|opposed|a argument is valid and has true premises
+192|refer to groups|opposed|refer to individuals
+193|can be sometimes based on falsehood|opposed|people can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc
+194|refer to individuals|opposed|are not opposites
+195|has nothing to do with judgment , conception , reasoning and intuition for that matter|based_on|reason
+196|is a property of arguments|defines|validity
+197|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|defines|truth
+198|: An excuse is a type of reason that specifically justifies or defends a fault|defines|excuse
+199|refer to objects or events that are available to the senses|opposed|refer to groups
+200|for example mud is the in the making of a pot|defines|material cause
+201|an is an argument that is invalid or has at least one false premises|opposed|a always has true premises and true conclusions
+202|cause|moment_of|excuse
+203|impresses us for it is felt externally|opposed|are not felt simply because they are well within an individual
+204|tells about the fact that has been invented or experimented|based_on|truth
+205|is the way how a person understands something and different people may have different perceptions for the same thing|opposed|, on the other hand , is the truth and the actual existence of something
+206|the phloem runs next to xylem , and it transports food prepared by photosynthesis from leaves to other plant body parts . Thus , this process is called|defines|translocation
+207|refers to anything that is owned by a person or an entity|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+208|is shelled within the mind of the individual and hence can not be seen by others immediately|opposed|refer to ideas or concepts ; they have no physical referents
+209|is internal|opposed|is external in sense
+210|, on the other hand , is the truth and the actual existence of something|opposed|is an existent fact
+211|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+212|a argument is not necessarily a sound argument|defines|valid
+213|can be either tangible , intangible , movable or immovable|moment_of|is a property of arguments
+214|a in an argument is the main point the arguer is trying to prove|opposed|the is determined by various factors such as common sense , personal experience , investigation , etc .
+215|excuse|based_on|excuse
+216|the refers to the process of drawing specific conclusions from general statements / observations|defines|latter
+217|tells about the fact that has been invented or experimented|based_on|reality
+218|we can sense the of others in a short period of time|opposed|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits
+219|is external in sense|defines|behavior
+220|is internal|defines|attitude
+221|reason|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
+222|the proceeds from specific premises to a general conclusion|opposed|proceeds from general premises to a specific conclusion
+223|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )|opposed|in , knowledge can be verified through scientific methods and mathematical / logical proof ,
+224|in , knowledge can be verified through scientific methods and mathematical / logical proof ,|opposed|in , the experience is the origin of knowledge
+225|an may have both false and true premises and conclusions|opposed|is generally used in cases where there is a limited choice
+226|conclusion|moment_of|unsound argument
+227|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|excuse
+228|a always has true premises and true conclusions|opposed|an may have both false and true premises and conclusions
+229|a in an argument is the main point the arguer is trying to prove|moment_of|an may have both false and true premises and conclusions
+230|a in an argument is the main point the arguer is trying to prove|moment_of|unsound argument
+231|auguste Comte and Émile Durkheim are two prominent figures in|defines|positivism
+232|is an existent fact|defines|reality
+233|refer to land and buildings on it|opposed|can be either tangible , intangible , movable or immovable
+234|is the transportation of water and minerals from the root to aerial parts of the plant through the xylem|defines|sap
+235|a in an argument is the main point the arguer is trying to prove|moment_of|the proceeds from specific premises to a general conclusion
+236|the proceeds from specific premises to a general conclusion|defines|inductive reasoning
+237|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|based_on|a simply refers to a cause or explanation . It explains why someone did something or why something happened
+238|is an established fact|based_on|hence needs the observance of reality
+239|refer to land and buildings and other structures on it|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+240|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|moment_of|: A reason simply refers to a cause or explanation
+241|a argument is valid and has true premises|opposed|an argument is invalid and/or has at least one false premises
+242|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|opposed|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+243|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|based_on|: A reason merely explains something
+244|property|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
+245|reality|based_on|reality
+246|can not change in a short period of time|defines|character
+247|: The main function is not to justify , but to explain|defines|reason
+248|is external in sense|opposed|can very well be seen by others as it is external
+249|refers to only that portion of the property and/or components of it that are the subject of the lease / sale|defines|premises
+250|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|truth
+251|reason|based_on|reason
+252|is always based on reality|opposed|can be sometimes based on falsehood
+253|what is found out in is what is given ultimately as truth|opposed|hence needs the observance of reality
+254|premise|moment_of|an may have both false and true premises and conclusions
+255|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|opposed|is a theory that states that the origin of all knowledge is sense experience ( visual , auditory , tactile , gustatory and olfactory sensation )
+256|an is an argument that is invalid or has at least one false premises|defines|unsound argument
+257|tells about the fact that has been invented or experimented|based_on|hence needs the observance of reality
+258|it takes a long time for us to the in others|defines|attitude
+259|premises|moment_of|truth
+260|refer to land and buildings on it|moment_of|property
+261|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true|opposed|a argument is not necessarily a sound argument
+262|an argument is when its conclusion follows logically from the premises|defines|valid
+263|truth|based_on|truth
+264|: The main function is to justify or defend a fault|moment_of|excuse
+265|are not opposites|opposed|as are
+266|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|moment_of|excuse
+267|in the same way is the one that does not change its nature in the present and future too . It is always of the same nature|based_on|what is found out in is what is given ultimately as truth
+268|reason|based_on|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+269|auguste Comte and Émile Durkheim are two prominent figures in|opposed|john Locke , George Berkeley , John Stuart Mill , and David Hume are prominent
+270|people can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc|opposed|the , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect
+271|cause|based_on|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+272|as are|opposed|is only limited to telling the truth
+273|truth|based_on|reality
+274|also includes the quality of being sincere|defines|being honest
+275|reason|based_on|excuse
+276|: An excuse justifies the fault|defines|excuse
+277|a argument is not necessarily a sound argument|opposed|a is an argument that is valid and has true premises
+278|can change in a short period of time|opposed|is internal
+279|premises|moment_of|validity
+280|reality|based_on|truth
+281|property|moment_of|property
+282|on the other hand makes one to do a particular thing even if the world is watching|opposed|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change
+283|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|opposed|has nothing to do with judgment , conception , reasoning and intuition for that matter
+284|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+285|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
+286|: The main function is to justify or defend a fault|based_on|reason
+287|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change|opposed|is liable to change according to the situation . It is after all a kind of surface emotion
+288|conclusion|moment_of|a always has true premises and true conclusions
+289|: The main function is to justify or defend a fault|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+290|for example mud is the in the making of a pot|opposed|the potter ’s wheel is the in the making of a pot
+291|: The main function is to justify or defend a fault|moment_of|: A reason simply refers to a cause or explanation
+292|tells about the fact that has been invented or experimented|opposed|what is found out in is what is given ultimately as truth
+293|a simply refers to a cause or explanation . It explains why someone did something or why something happened|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+294|refer to land and buildings on it|defines|premises
+295|a simply refers to a cause or explanation . It explains why someone did something or why something happened|moment_of|: A reason simply refers to a cause or explanation
 296|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|based_on|reality
-297|people can have numerous concerning their lives , such as to educate one ’s self , to be employed in a prestigious organization , to lead a beautiful life with a family , etc|opposed|the , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect
-298|is a property of arguments|opposed|is the quality of a statement being true or accurate
-299|reason|moment_of|reason
-300|: The main function is to justify or defend a fault|moment_of|excuse
-301|is the transportation of water and minerals from the root to aerial parts of the plant through the xylem|defines|sap
-302|tells us about the real nature of a particular thing , experience , existence and the like|defines|reality
-303|cause|based_on|reason
-304|a simply refers to a cause or explanation . It explains why someone did something or why something happened|moment_of|: A reason simply refers to a cause or explanation
-305|premise|moment_of|an may have both false and true premises and conclusions
-306|the proceeds from specific premises to a general conclusion|opposed|proceeds from general premises to a specific conclusion
-307|is used when the choice is bigger|opposed|is the systematic study of the form of arguments
-308|is the quality of a statement being true or accurate|opposed|an argument is when its conclusion follows logically from the premises
-309|: The main function is to justify or defend a fault|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-310|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|opposed|a in an argument is the main point the arguer is trying to prove
-311|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|opposed|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
-312|for example mud is the in the making of a pot|defines|material cause
-313|a in an argument is the main point the arguer is trying to prove|moment_of|unsound argument
-314|is the power of the mind to think , understand , and form judgments logically|opposed|is a noun
-315|refer to land and buildings and other structures on it|moment_of|property
-316|is an established fact|defines|truth
-317|tells about the fact that has been invented or experimented|based_on|what is found out in is what is given ultimately as truth
-318|the refers to the process of drawing specific conclusions from general statements / observations|opposed|refers to anything that is owned by a person or an entity
-319|: The main function is to justify or defend a fault|opposed|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
-320|the , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect|opposed|is the way how a person understands something and different people may have different perceptions for the same thing
-321|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner|defines|property
-322|reality|based_on|reality
-323|can change in a short period of time|defines|attitude
-324|refer to land and buildings on it|defines|premises
-325|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|defines|virtues
-326|: An excuse is a type of reason that specifically justifies or defends a fault|opposed|: A reason merely explains something
-327|refer to land and buildings and other structures on it|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
-328|a in an argument is the main point the arguer is trying to prove|moment_of|an may have both false and true premises and conclusions
-329|premises|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
-330|refer to objects or events that are available to the senses|opposed|refer to groups
-331|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-332|a always has true premises and true conclusions|opposed|an may have both false and true premises and conclusions
-333|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|based_on|: A reason merely explains something
-334|the is determined by various factors such as common sense , personal experience , investigation , etc .|defines|truth of a premise or a conclusion
-335|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|moment_of|a always has true premises and true conclusions
-336|can be challenged . Truth can be challenged because it is characterized by facts . Facts can always be challenged and disproved . It is important to note that proven facts are more in number though|defines|truth
-337|property|moment_of|property
-338|cause|based_on|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
-339|reason|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
-340|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|excuse
-341|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|is a property of premises and conclusions
-342|tells about the fact that has been invented or experimented|based_on|hence needs the observance of reality
-343|excuse|based_on|reason
-344|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
-345|premise|moment_of|unsound argument
-346|premises|moment_of|property
-347|john Locke , George Berkeley , John Stuart Mill , and David Hume are prominent|defines|empiricists
-348|an argument is when its conclusion follows logically from the premises|defines|valid
-349|is an established fact|based_on|reality
-350|conclusion|moment_of|deductive reasoning
-351|impresses us for it is felt externally|opposed|are not felt simply because they are well within an individual
-352|is external in sense|defines|behavior
-353|in , the experience is the origin of knowledge|defines|empiricism
-354|can be either tangible , intangible , movable or immovable|moment_of|is a property of arguments
-355|: A reason merely explains something|defines|reason
-356|in , the experience is the origin of knowledge|opposed|auguste Comte and Émile Durkheim are two prominent figures in
-357|is a noun and a verb|defines|reason
-358|cause|based_on|cause
-359|tells us about the real nature of a particular thing , experience , existence and the like|opposed|tells about the fact that has been invented or experimented
-360|reality|based_on|hence needs the observance of reality
-361|can be either tangible , intangible , movable or immovable|moment_of|can be either tangible , intangible , movable or immovable while premises refers to tangible and immovable property . In real estate , property refers to the entirety of the land , buildings , structures , machinery , equipment , etc . , owned by the landowner
-362|is a noun and a verb|opposed|a simply refers to a cause or explanation . It explains why someone did something or why something happened
-363|: The main function is to justify or defend a fault|moment_of|reason
-364|refer to ideas or concepts ; they have no physical referents|opposed|refer to objects or events that are available to the senses
-365|refer to objects or events that are available to the senses|defines|concrete terms
-366|: The main function is not to justify , but to explain|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-367|is an existent fact|defines|reality
-368|a simply refers to a cause or explanation . It explains why someone did something or why something happened|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
-369|is external in sense|opposed|can very well be seen by others as it is external
-370|can change its nature in due course . Many scientific truths were disproved in the past . The truth about the planetary motion was re - established later . Hence truth sometimes is bound to change|defines|truth
-371|: The main function is not to justify , but to explain|based_on|: An excuse justifies the fault
-372|excuse|moment_of|reason
-373|an argument is invalid and/or has at least one false premises|opposed|is a technical feature of an argument . It helps us to determine whether the conclusion of an argument is true
-374|: A reason merely explains something|based_on|: A reason merely explains something
-375|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|moment_of|proceeds from general premises to a specific conclusion
-376|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|moment_of|an may have both false and true premises and conclusions
-377|, which generally refers to a building with the land surrounding it , is tangible and immovable property|defines|premises
-378|has nothing to do with judgment , conception , reasoning and intuition for that matter|based_on|reason
-379|conclusion|moment_of|a always has true premises and true conclusions
-380|a argument is valid and has true premises|defines|sound
-381|an argument is when its conclusion follows logically from the premises|opposed|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise
-382|: An excuse is a type of reason that specifically justifies or defends a fault|defines|excuse
-383|: The main function is to justify or defend a fault|based_on|reason
+297|a is an argument that is valid and has true premises|defines|sound argument
+298|is the very essence of a particular man . It is indeed what the person is within . It is not liable to change|defines|character
+299|in the same way is the one that does not change its nature in the present and future too . It is always of the same nature|based_on|hence needs the observance of reality
+300|when the conclusion follows logically from the premises|opposed|the proceeds from specific premises to a general conclusion
+301|: The main function is to justify or defend a fault|based_on|: An excuse justifies the fault
+302|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|based_on|a simply refers to a cause or explanation . It explains why someone did something or why something happened
+303|premises|moment_of|property
+304|the , on the other hand , is the state of things as they are . Reality includes everything around us , those that can be seen and those that can not be seen . It includes our views , attitudes , life , those who surround us and almost every aspect|opposed|is the way how a person understands something and different people may have different perceptions for the same thing
+305|the potter ’s wheel is the in the making of a pot|opposed|means good enough or something that is sufficient for a need or requirement
+306|tells about the fact that has been invented or experimented|defines|truth
+307|can be either tangible , intangible , movable or immovable|defines|property
+308|in , the experience is the origin of knowledge|defines|empiricism
+309|has nothing to do with judgment , conception , reasoning and intuition for that matter|based_on|excuse
+310|the potter ’s wheel is the in the making of a pot|defines|instrumental cause
+311|can not change in a short period of time|opposed|can change in a short period of time
+312|the is determined by various factors such as common sense , personal experience , investigation , etc .|defines|truth of a premise or a conclusion
+313|that build up good character include courage , patience , fortitude , integrity , honesty , loyalty and good habits|defines|virtues
+314|conclusion|moment_of|proceeds from general premises to a specific conclusion
+315|has nothing to do with judgment , conception , reasoning and intuition for that matter|opposed|for example mud is the in the making of a pot
+316|refer to ideas or concepts ; they have no physical referents|defines|abstract terms
+317|is a noun and a verb|opposed|a simply refers to a cause or explanation . It explains why someone did something or why something happened
+318|is an established fact|based_on|reality
+319|a in an argument is the main point the arguer is trying to prove|moment_of|deductive reasoning
+320|is a noun and a verb|defines|reason
+321|has nothing to do with judgment , conception , reasoning and intuition for that matter|moment_of|: A reason simply refers to a cause or explanation
+322|: The main function is not to justify , but to explain|opposed|: The main function is to justify or defend a fault
+323|a is a statement that provides evidence or reasons to form a conclusion ; an argument can have more than one premise|moment_of|an may have both false and true premises and conclusions
+324|conclusion|moment_of|sound argument
+325|excuse|based_on|reason
+326|is a property of premises and conclusions|defines|truth
+327|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|based_on|an , on the other hand , is also a type of reason that specifically justifies or defends a fault
+328|is the opinion or the method by which one approaches a given situation|opposed|on the other hand makes one to do a particular thing even if the world is watching
+329|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|moment_of|: A reason simply refers to a cause or explanation
+330|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+331|is an existent fact|based_on|what is found out in is what is given ultimately as truth
+332|proceeds from general premises to a specific conclusion|opposed|a always has true premises and true conclusions
+333|reason|moment_of|excuse
+334|excuse|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+335|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|validity
+336|: The main function is not to justify , but to explain|based_on|: An excuse justifies the fault
+337|, which generally refers to a building with the land surrounding it , is tangible and immovable property|defines|premises
+338|a simply refers to a cause or explanation . It explains why someone did something or why something happened|defines|reason
+339|has special application in the subject of philosophy . Reason is the faculty or the capacity of the human mind by which it is distinguished from the intelligence of the lower animals . Hence reason includes judgment , conception , reasoning and intuition too|based_on|a simply refers to a cause or explanation . It explains why someone did something or why something happened
+340|is a philosophical theory that states that the only authentic knowledge is scientific knowledge|defines|positivism
+341|cause|based_on|refers to a thought or a consideration in support of an opinion . Observe the usage of the word ‘ reason ’ in the sentences given below : 1 . What is the reason for your decision ? 2 . You may give me the reason behind your suggestion . In both sentences given above the word ‘ reason ’ is used in the sense of ‘ a thought ’ in support of an opinion or a decision
+342|is generally used in cases where there is a limited choice|defines|which
+343|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+344|tells us about the real nature of a particular thing , experience , existence and the like|based_on|hence needs the observance of reality
+345|the phloem runs next to xylem , and it transports food prepared by photosynthesis from leaves to other plant body parts . Thus , this process is called|opposed|is always based on reality
+346|is an established fact|defines|truth
+347|property|moment_of|is a property of arguments
+348|what is found out in is what is given ultimately as truth|based_on|hence needs the observance of reality
+349|a always has true premises and true conclusions|defines|sound argument
+350|refer to land and buildings and other structures on it|moment_of|premises
+351|a is self existent or something that has been existent right from the past|defines|discovery
+352|tells us about the real nature of a particular thing , experience , existence and the like|defines|reality
+353|is the systematic study of the form of arguments|defines|logic
+354|reason|moment_of|reason
+355|excuse|moment_of|excuse
+356|is an existent fact|based_on|hence needs the observance of reality
+357|an , on the other hand , is also a type of reason that specifically justifies or defends a fault|based_on|excuse
+358|is the opinion or the method by which one approaches a given situation|defines|attitude
+359|in the same way is the one that does not change its nature in the present and future too . It is always of the same nature|defines|reality
+360|has nothing to do with judgment , conception , reasoning and intuition for that matter|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+361|premises|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+362|cause|moment_of|: An excuse is a type of reason that specifically justifies or defends a fault
+363|premise|moment_of|inductive reasoning
+364|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|based_on|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause
+365|hence needs the observance of reality|opposed|can not be challenged
+366|is an established fact|based_on|what is found out in is what is given ultimately as truth
+367|is used in situations where you mean to say sufficient|defines|enough
+368|: An excuse is a type of reason that specifically justifies or defends a fault|opposed|: A reason merely explains something
+369|: An excuse justifies the fault|based_on|: An excuse justifies the fault
+370|cause|based_on|cause
+371|, which generally refers to a building with the land surrounding it , is tangible and immovable property|moment_of|is a property of arguments
+372|: An excuse justifies the fault|based_on|reason
+373|a is the one that produces the effect . For example you can say that a typical virus is the cause of the disease of chickenpox . It is understood that the particular virus produces the effect called chickenpox . Hence anything that produces an effect is called a cause|defines|cause
+374|hence needs the observance of reality|based_on|what is found out in is what is given ultimately as truth
+375|tells about the fact that has been invented or experimented|based_on|what is found out in is what is given ultimately as truth
+376|is the power of the mind to think , understand , and form judgments logically|defines|reason
+377|reason|based_on|cause
+378|refer to land and buildings on it|moment_of|refers to only that portion of the property and/or components of it that are the subject of the lease / sale
+379|when the conclusion follows logically from the premises|defines|an argument is valid
+380|refer to land and buildings and other structures on it|moment_of|property
+381|also includes the quality of being sincere|opposed|is a philosophical theory that states that the only authentic knowledge is scientific knowledge
+382|the is determined by various factors such as common sense , personal experience , investigation , etc .|opposed|when the conclusion follows logically from the premises
+383|property|moment_of|truth
