@@ -1,7 +1,7 @@
 Cython
 wmd
 regex
-spacy==2.2.1
+spacy==2.2.3
 scipy
 nltk
 overrides
