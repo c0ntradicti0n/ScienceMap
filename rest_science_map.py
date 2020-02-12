@@ -37,10 +37,12 @@ def science_video():
         p = subprocess.Popen(cmd, cwd=config.video_dir, shell=True)
         (output, err) = p.communicate()
 
-        cmd = "ffmpeg -y -i record.mp4 -acodec libfaac -ab 96k -vcodec libx264 -crf 20 -vf scale=1440:1080 record_compressed.mp4  ;" + \
-              f"cp ./record_compressed.mp4 {config.apache_dir}"
-        logging.info("compressing video\n" + cmd)
-        subprocess.Popen(cmd, cwd=config.video_dir, shell=True)
+        for crf in [21,23,24,25,26,27,28,29]:
+            cmd = f"ffmpeg -y -i record.mp4 -acodec libfaac -ab 96k -vcodec libx264 -crf {crf} -vf scale=1440:1080 record_compressed.mp4;" + \
+                  f"cp ./record_compressed_{crf}.mp4 {config.apache_dir}"
+            logging.info(f"compressing video with crf {crf}" + cmd)
+            subprocess.Popen(cmd, cwd=config.video_dir, shell=True)
+
         logging.info("video finished")
     return []
 
