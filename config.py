@@ -41,7 +41,7 @@ cc_model_path_first   = "../CorpusCook/server/models/model_first.tar.gz"
 dist_model_path_over  = "../Distinctiopus4/output/over_./experiment_configs/{config}/model.tar.gz".format(config=allennlp_config)
 cc_model_path_over    = "../CorpusCook/server/models/model_over.tar.gz"
 
-vidgeo_dir = '../apache-tomcat-9.0.30/webapps/corpuscow/'
+video_dir = '../apache-tomcat-9.0.30/webapps/corpuscow/'
 all_coordinates="../../KnowledgeScience/knowledge_graph_coords/knowledge_graph_3d_choords.csv"
 ke_path=  "../../KnowledgeScience/knowledge_graph_coords/tsne_clusters_mean_points.csv"
 ke_colors="../../KnowledgeScience/knowledge_graph_coords/tsne_clusters_mean_points.csv"
