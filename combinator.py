@@ -19,6 +19,11 @@ analogs = similaritymixer.SimilarityMixer(
                             (-20,similaritymixer.SimilarityMixer.multi_kind_tup_sim(similaritymixer.SimilarityMixer.same_expression_sim), 0, 1)])
 
 
+# check similar
+#contradicting = similaritymixer.SimilarityMixer(
+#                            [(1,similaritymixer.SimilarityMixer.multi_kind_tup_sim(wmd_simmilarity_mixer.sub_suffixtree,  layout='both'), 0.02,1),
+#                             (1,similaritymixer.SimilarityMixer.multi_kind_tup_sim(similaritymixer.SimilarityMixer.formula_excludes,  layout='both'), 1,1)], verbose=True)
+
 #analog = similaritymixer.SimilarityMixer(  #
 #subordinated = similaritymixer.SimilarityMixer(  #
 #    similarity_composition=[(1,similaritymixer.SimilarityMixer.multi_kind_tup_sim(wmd_simmilarity_mixer.wmd_similarity, assign={"SUBJECT":"CONTRAST"}),  0.0006, 1)], verbose=True)

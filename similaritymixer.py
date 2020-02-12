@@ -1033,7 +1033,7 @@ r.multi_cross2tup_sim(SimilarityMixer.same_expression_sim, n=2)(*data2)
             if not all(len(side)==2 for kind, side in grouped_sides):
                 logging.warning('not full broadcasting of annotation (%s)' % (str([(kind, len(side)) for kind, side in grouped_sides])))
 
-            results = list(zip(*[fun(*side) for kind, side in grouped_sides if len(side) == 2]))
+            results = list(zip(*[fun(*side) for kind, side in grouped_sides]))# if len(side) == 2]))
             values, dicts = results
             value  = sum(values)
             return value, dicts
